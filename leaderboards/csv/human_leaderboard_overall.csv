@@ -1,141 +1,141 @@
-Ranking,Organization,Model,Dataset Score (N=316),Market Score (resolved) (N=43),Market Score (unresolved) (N=33),Market Score (overall) (N=76),Overall Resolved Score (N=359),Overall Score (N=392),Overall Score 95% CI,Pairwise p-value comparing to No. 1 (bootstrapped),Pct. more accurate than No. 1,Pct. Imputed
-1,ForecastBench,Superforecaster median forecast,0.123,0.087,0.055,0.073,0.105,0.098,[0.077 0.119],,0%,0%
-2,ForecastBench,Public median forecast,0.156,0.127,0.037,0.088,0.141,0.122,[0.101 0.142],<0.001,23%,0%
-3,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with freeze values),0.144,0.155,0.039,0.105,0.15,0.124,[0.101 0.148],<0.001,31%,0%
-4,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with news with freeze values),0.15,0.157,0.049,0.11,0.154,0.13,[0.107 0.153],<0.001,29%,0%
-5,OpenAI,GPT-4 (zero shot with freeze values),0.167,0.135,0.042,0.094,0.151,0.131,[0.108 0.154],<0.001,31%,0%
-6,OpenAI,GPT-4-Turbo-2024-04-09 (zero shot with freeze values),0.171,0.135,0.038,0.093,0.153,0.132,[0.109 0.155],<0.001,32%,0%
-7,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot with freeze values),0.152,0.173,0.041,0.115,0.162,0.134,[0.105 0.162],<0.001,30%,0%
-8,OpenAI,GPT-4o (scratchpad with news with freeze values),0.171,0.132,0.065,0.102,0.151,0.137,[0.116 0.158],<0.001,25%,0%
-9,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad),0.144,0.189,0.056,0.131,0.166,0.138,[0.115 0.16 ],<0.001,28%,0%
-10,OpenAI,GPT-4o (scratchpad with freeze values),0.168,0.151,0.059,0.111,0.16,0.139,[0.118 0.161],<0.001,27%,0%
-11,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with news),0.15,0.179,0.077,0.135,0.164,0.142,[0.12  0.164],<0.001,26%,0%
-12,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 3),0.165,0.164,0.065,0.121,0.164,0.143,[0.122 0.163],<0.001,25%,3%
-13,Anthropic,Claude-3-Opus-20240229 (zero shot with freeze values),0.173,0.164,0.047,0.113,0.168,0.143,[0.118 0.169],<0.001,24%,0%
-14,OpenAI,GPT-4o (scratchpad),0.168,0.16,0.074,0.123,0.164,0.145,[0.127 0.164],<0.001,24%,0%
-15,Mistral AI,Mistral-Large-Latest (zero shot with freeze values),0.176,0.165,0.049,0.115,0.171,0.145,[0.121 0.17 ],<0.001,23%,0%
-16,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 1),0.158,0.178,0.075,0.133,0.168,0.146,[0.123 0.169],<0.001,25%,0%
-17,Anthropic,Claude-3-Opus-20240229 (scratchpad with freeze values),0.167,0.158,0.086,0.127,0.163,0.147,[0.128 0.166],<0.001,23%,0%
-18,OpenAI,GPT-4o (scratchpad with news),0.171,0.161,0.074,0.123,0.166,0.147,[0.125 0.169],<0.001,22%,0%
-19,Mistral AI,Mistral-Large-Latest (scratchpad with freeze values),0.165,0.163,0.089,0.131,0.164,0.148,[0.129 0.166],<0.001,22%,0%
-20,Google,Gemini-1.5-Pro (scratchpad),0.17,0.175,0.07,0.129,0.173,0.15,[0.132 0.168],<0.001,23%,1%
-21,Google,Gemini-1.5-Pro (scratchpad with news with freeze values),0.174,0.169,0.074,0.127,0.171,0.151,[0.131 0.17 ],<0.001,22%,1%
-22,OpenAI,GPT-4 (scratchpad with freeze values),0.179,0.172,0.063,0.124,0.175,0.152,[0.131 0.172],<0.001,22%,1%
-23,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.183,0.158,0.073,0.121,0.17,0.152,[0.128 0.176],<0.001,26%,0%
-24,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot),0.152,0.205,0.087,0.154,0.178,0.153,[0.125 0.18 ],<0.001,23%,0%
-25,OpenAI,GPT-4-Turbo-2024-04-09 (zero shot),0.171,0.18,0.075,0.135,0.176,0.153,[0.132 0.173],<0.001,22%,0%
-26,Google,Gemini-1.5-Pro (scratchpad with freeze values),0.17,0.167,0.094,0.135,0.169,0.153,[0.134 0.172],<0.001,23%,0%
-27,Anthropic,Claude-2.1 (scratchpad with freeze values),0.213,0.112,0.069,0.093,0.162,0.153,[0.135 0.171],<0.001,25%,23%
-28,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 1),0.161,0.198,0.077,0.145,0.179,0.153,[0.132 0.175],<0.001,22%,1%
-29,Meta,Llama-3-70b-Chat-Hf (scratchpad with freeze values),0.193,0.151,0.066,0.114,0.172,0.153,[0.135 0.171],<0.001,24%,0%
-30,OpenAI,GPT-4o (zero shot with freeze values),0.202,0.159,0.039,0.107,0.18,0.154,[0.129 0.18 ],<0.001,28%,0%
-31,Meta,Llama-3-70b-Chat-Hf (zero shot with freeze values),0.187,0.175,0.054,0.122,0.181,0.155,[0.128 0.181],<0.001,25%,0%
-32,Qwen,Qwen1.5-110B-Chat (zero shot with freeze values),0.197,0.157,0.056,0.113,0.177,0.155,[0.132 0.178],<0.001,20%,0%
-33,Google,Gemini-1.5-Pro (zero shot with freeze values),0.188,0.18,0.047,0.122,0.184,0.155,[0.128 0.183],<0.001,24%,0%
-34,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with freeze values),0.187,0.173,0.064,0.125,0.18,0.156,[0.138 0.174],<0.001,21%,0%
-35,Google,Gemini-1.5-Pro (scratchpad with news),0.174,0.175,0.093,0.139,0.174,0.156,[0.137 0.176],<0.001,22%,0%
-36,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad),0.183,0.175,0.073,0.13,0.179,0.156,[0.139 0.174],<0.001,23%,0%
-37,Google,Gemini-1.5-Flash (zero shot with freeze values),0.191,0.176,0.054,0.123,0.183,0.157,[0.128 0.185],<0.001,23%,0%
-38,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with news with freeze values),0.188,0.138,0.109,0.126,0.163,0.157,[0.134 0.18 ],<0.001,26%,1%
-39,Anthropic,Claude-3-Opus-20240229 (scratchpad),0.167,0.198,0.08,0.147,0.183,0.157,[0.138 0.176],<0.001,22%,1%
-40,OpenAI,GPT-4 (scratchpad),0.179,0.167,0.094,0.135,0.173,0.157,[0.141 0.173],<0.001,18%,1%
-41,Anthropic,Claude-2.1 (scratchpad),0.213,0.11,0.103,0.107,0.161,0.16,[0.14  0.179],<0.001,22%,24%
-42,ForecastBench,Imputed Forecaster,0.25,0.098,0.036,0.071,0.174,0.161,[0.142 0.179],<0.001,25%,100%
-43,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (zero shot with freeze values),0.192,0.171,0.074,0.129,0.182,0.161,[0.134 0.188],<0.001,25%,0%
-44,Anthropic,Claude-2.1 (zero shot with freeze values),0.22,0.156,0.04,0.106,0.188,0.163,[0.139 0.186],<0.001,27%,1%
-45,Qwen,Qwen1.5-110B-Chat (scratchpad with news with freeze values),0.184,0.179,0.101,0.145,0.182,0.165,[0.145 0.184],<0.001,23%,0%
-46,Qwen,Qwen1.5-110B-Chat (scratchpad with freeze values),0.191,0.185,0.079,0.139,0.188,0.165,[0.146 0.183],<0.001,19%,0%
-47,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with news),0.188,0.176,0.096,0.141,0.182,0.165,[0.143 0.187],<0.001,25%,0%
-48,OpenAI,GPT-4 (zero shot),0.167,0.2,0.114,0.163,0.183,0.165,[0.146 0.184],<0.001,23%,0%
-49,Mistral AI,Mistral-Large-Latest (scratchpad),0.165,0.201,0.12,0.166,0.183,0.165,[0.147 0.184],<0.001,22%,0%
-50,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with news with freeze values),0.2,0.166,0.085,0.131,0.183,0.166,[0.147 0.184],<0.001,23%,0%
-51,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with news),0.2,0.172,0.083,0.134,0.186,0.167,[0.15  0.184],<0.001,22%,0%
-52,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with SECOND news),0.204,0.165,0.085,0.13,0.184,0.167,[0.146 0.188],<0.001,19%,0%
-53,OpenAI,GPT-4o (superforecaster with news 3),0.205,0.171,0.081,0.132,0.188,0.168,[0.148 0.189],<0.001,21%,7%
-54,Google,Gemini-1.5-Pro (superforecaster with news 3),0.19,0.172,0.116,0.148,0.181,0.169,[0.149 0.189],<0.001,22%,0%
-55,Anthropic,Claude-3-Opus-20240229 (zero shot),0.173,0.229,0.082,0.165,0.201,0.169,[0.143 0.195],<0.001,18%,0%
-56,OpenAI,GPT-4o (zero shot),0.202,0.172,0.092,0.137,0.187,0.169,[0.148 0.191],<0.001,22%,0%
-57,Meta,Llama-3-8b-Chat-Hf (zero shot with freeze values),0.204,0.161,0.105,0.137,0.183,0.17,[0.144 0.196],<0.001,24%,0%
-58,Qwen,Qwen1.5-110B-Chat (scratchpad with news),0.184,0.195,0.109,0.158,0.19,0.171,[0.151 0.191],<0.001,22%,0%
-59,Google,Gemini-1.5-Flash (scratchpad with freeze values),0.209,0.175,0.081,0.134,0.192,0.171,[0.149 0.194],<0.001,20%,0%
-60,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad),0.187,0.19,0.111,0.156,0.189,0.171,[0.154 0.189],<0.001,20%,0%
-61,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad),0.201,0.156,0.124,0.142,0.178,0.172,[0.151 0.192],<0.001,27%,15%
-62,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 2),0.197,0.2,0.083,0.149,0.198,0.173,[0.149 0.196],<0.001,23%,0%
-63,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 3),0.182,0.19,0.13,0.164,0.186,0.173,[0.151 0.195],<0.001,22%,7%
-64,Qwen,Qwen1.5-110B-Chat (scratchpad),0.191,0.201,0.098,0.156,0.196,0.173,[0.155 0.192],<0.001,20%,0%
-65,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (zero shot with freeze values),0.22,0.193,0.046,0.129,0.207,0.175,[0.144 0.205],<0.001,29%,0%
-66,Anthropic,Claude-3-Opus-20240229 (scratchpad with news with freeze values),0.193,0.194,0.112,0.158,0.193,0.176,[0.154 0.197],<0.001,23%,0%
-67,Meta,Llama-3-8b-Chat-Hf (scratchpad with freeze values),0.225,0.156,0.088,0.127,0.191,0.176,[0.16  0.192],<0.001,23%,0%
-68,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 3),0.207,0.168,0.115,0.145,0.188,0.176,[0.154 0.198],<0.001,20%,12%
-69,Qwen,Qwen1.5-110B-Chat (superforecaster with news 1),0.202,0.194,0.092,0.15,0.198,0.176,[0.151 0.201],<0.001,22%,0%
-70,Mistral AI,Mistral-Large-Latest (zero shot),0.176,0.205,0.14,0.177,0.191,0.177,[0.15  0.203],<0.001,20%,0%
-71,Google,Gemini-1.5-Flash (scratchpad with news with freeze values),0.216,0.159,0.111,0.138,0.187,0.177,[0.153 0.201],<0.001,22%,0%
-72,Qwen,Qwen1.5-110B-Chat (zero shot),0.197,0.204,0.101,0.159,0.2,0.178,[0.158 0.198],<0.001,15%,1%
-73,OpenAI,GPT-4o (superforecaster with news 1),0.201,0.202,0.095,0.155,0.202,0.178,[0.151 0.205],<0.001,25%,0%
-74,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 2),0.179,0.218,0.124,0.177,0.199,0.178,[0.153 0.203],<0.001,22%,0%
-75,Google,Gemini-1.5-Pro (zero shot),0.188,0.226,0.095,0.169,0.207,0.179,[0.15  0.207],<0.001,22%,0%
-76,Anthropic,Claude-2.1 (scratchpad with news with freeze values),0.214,0.178,0.099,0.144,0.196,0.179,[0.157 0.201],<0.001,21%,4%
-77,Anthropic,Claude-3-Opus-20240229 (scratchpad with news),0.193,0.19,0.131,0.165,0.192,0.179,[0.157 0.201],<0.001,22%,0%
-78,Meta,Llama-3-8b-Chat-Hf (zero shot),0.204,0.2,0.095,0.154,0.202,0.179,[0.152 0.206],<0.001,24%,0%
-79,Mistral AI,Mistral-Large-Latest (scratchpad with news with freeze values),0.205,0.172,0.129,0.153,0.188,0.179,[0.158 0.2  ],<0.001,22%,0%
-80,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 3),0.219,0.152,0.127,0.141,0.185,0.18,[0.163 0.197],<0.001,16%,17%
-81,OpenAI,GPT-4o (scratchpad with SECOND news),0.237,0.152,0.087,0.124,0.194,0.18,[0.161 0.2  ],<0.001,18%,2%
-82,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.232,0.166,0.08,0.129,0.199,0.181,[0.162 0.199],<0.001,16%,39%
-83,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.233,0.167,0.079,0.129,0.2,0.181,[0.162 0.199],<0.001,16%,39%
-84,Meta,Llama-3-70b-Chat-Hf (zero shot),0.187,0.225,0.108,0.174,0.206,0.181,[0.158 0.204],<0.001,21%,0%
-85,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.233,0.166,0.08,0.129,0.2,0.181,[0.162 0.2  ],<0.001,17%,39%
-86,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 1),0.211,0.196,0.096,0.153,0.204,0.182,[0.157 0.207],<0.001,20%,0%
-87,Anthropic,Claude-2.1 (scratchpad with news),0.214,0.176,0.122,0.152,0.195,0.183,[0.16  0.206],<0.001,21%,9%
-88,Google,Gemini-1.5-Flash (scratchpad),0.209,0.194,0.115,0.16,0.201,0.184,[0.163 0.205],<0.001,18%,0%
-89,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 1),0.198,0.203,0.132,0.172,0.201,0.185,[0.16 0.21],<0.001,20%,0%
-90,Google,Gemini-1.5-Pro (superforecaster with news 1),0.206,0.223,0.091,0.165,0.214,0.186,[0.161 0.21 ],<0.001,22%,0%
-91,Google,Gemini-1.5-Flash (scratchpad with news),0.216,0.172,0.137,0.157,0.194,0.186,[0.164 0.209],<0.001,20%,0%
-92,Meta,Llama-3-70b-Chat-Hf (scratchpad),0.193,0.222,0.129,0.182,0.207,0.187,[0.171 0.204],<0.001,23%,0%
-93,Mistral AI,Mistral-Large-Latest (scratchpad with news),0.205,0.204,0.125,0.17,0.205,0.187,[0.166 0.209],<0.001,21%,0%
-94,Mistral AI,Mistral-Large-Latest (superforecaster with news 1),0.209,0.21,0.11,0.166,0.209,0.188,[0.162 0.213],<0.001,21%,0%
-95,Google,Gemini-1.5-Flash (zero shot),0.191,0.237,0.123,0.187,0.214,0.189,[0.161 0.217],<0.001,18%,0%
-96,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (zero shot),0.22,0.199,0.108,0.159,0.209,0.19,[0.16  0.219],<0.001,22%,0%
-97,OpenAI,GPT-4o (superforecaster with news 2),0.236,0.174,0.102,0.143,0.205,0.19,[0.164 0.215],<0.001,23%,1%
-98,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (zero shot),0.192,0.238,0.124,0.188,0.215,0.19,[0.163 0.218],<0.001,19%,0%
-99,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 2),0.251,0.164,0.096,0.135,0.207,0.193,[0.167 0.218],<0.001,29%,22%
-100,Qwen,Qwen1.5-110B-Chat (superforecaster with news 3),0.219,0.204,0.12,0.167,0.212,0.193,[0.173 0.214],<0.001,20%,6%
-101,Anthropic,Claude-2.1 (zero shot),0.22,0.213,0.108,0.168,0.217,0.194,[0.174 0.214],<0.001,18%,0%
-102,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 2),0.235,0.186,0.12,0.158,0.211,0.196,[0.177 0.216],<0.001,23%,2%
-103,Meta,Llama-3-8b-Chat-Hf (scratchpad),0.225,0.217,0.104,0.168,0.221,0.196,[0.179 0.214],<0.001,22%,0%
-104,Mistral AI,Mistral-Large-Latest (superforecaster with news 2),0.209,0.217,0.142,0.185,0.213,0.197,[0.171 0.222],<0.001,21%,1%
-105,Anthropic,Claude-2.1 (superforecaster with news 3),0.227,0.184,0.145,0.167,0.206,0.197,[0.175 0.22 ],<0.001,23%,5%
-106,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 2),0.224,0.207,0.127,0.172,0.215,0.198,[0.172 0.224],<0.001,25%,2%
-107,Mistral AI,Mistral-Large-Latest (superforecaster with news 3),0.234,0.183,0.135,0.162,0.208,0.198,[0.177 0.219],<0.001,21%,8%
-108,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 1),0.247,0.196,0.088,0.149,0.221,0.198,[0.172 0.224],<0.001,26%,15%
-109,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad with freeze values),0.201,0.225,0.164,0.199,0.213,0.2,[0.171 0.229],<0.001,24%,11%
-110,Qwen,Qwen1.5-110B-Chat (superforecaster with news 2),0.223,0.228,0.121,0.181,0.225,0.202,[0.18  0.224],<0.001,22%,3%
-111,Meta,Llama-2-70b-Chat-Hf (zero shot with freeze values),0.232,0.243,0.086,0.175,0.237,0.204,[0.176 0.231],<0.001,25%,1%
-112,Google,Gemini-1.5-Flash (superforecaster with news 2),0.223,0.221,0.141,0.186,0.222,0.204,[0.178 0.23 ],<0.001,20%,0%
-113,Meta,Llama-2-70b-Chat-Hf (scratchpad with freeze values),0.225,0.237,0.114,0.184,0.231,0.204,[0.188 0.221],<0.001,22%,0%
-114,Google,Gemini-1.5-Flash (superforecaster with news 3),0.237,0.193,0.146,0.172,0.215,0.205,[0.181 0.228],<0.001,19%,10%
-115,Google,Gemini-1.5-Pro (superforecaster with news 2),0.229,0.226,0.127,0.183,0.228,0.206,[0.177 0.236],<0.001,21%,0%
-116,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad with news with freeze values),0.294,0.125,0.118,0.122,0.21,0.208,[0.188 0.229],<0.001,23%,13%
-117,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 3),0.247,0.179,0.16,0.17,0.213,0.209,[0.186 0.231],<0.001,24%,14%
-118,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 2),0.233,0.22,0.139,0.185,0.227,0.209,[0.19  0.229],<0.001,20%,0%
-119,Anthropic,Claude-3-Haiku-20240307 (scratchpad with freeze values),0.24,0.225,0.122,0.18,0.232,0.21,[0.191 0.229],<0.001,21%,0%
-120,Google,Gemini-1.5-Flash (superforecaster with news 1),0.23,0.253,0.111,0.191,0.241,0.21,[0.182 0.239],<0.001,22%,1%
-121,Anthropic,Claude-3-Haiku-20240307 (zero shot with freeze values),0.295,0.161,0.083,0.127,0.228,0.211,[0.192 0.23 ],<0.001,20%,1%
-122,Anthropic,Claude-3-Haiku-20240307 (scratchpad),0.24,0.228,0.132,0.186,0.234,0.213,[0.195 0.232],<0.001,22%,0%
-123,Meta,Llama-2-70b-Chat-Hf (scratchpad),0.225,0.255,0.153,0.211,0.24,0.218,[0.199 0.237],<0.001,22%,1%
-124,Anthropic,Claude-2.1 (superforecaster with news 2),0.24,0.244,0.137,0.198,0.242,0.219,[0.193 0.245],<0.001,24%,11%
-125,OpenAI,GPT-3.5-Turbo-0125 (scratchpad with freeze values),0.254,0.236,0.13,0.19,0.245,0.222,[0.202 0.242],<0.001,21%,0%
-126,Anthropic,Claude-2.1 (superforecaster with news 1),0.263,0.232,0.115,0.181,0.247,0.222,[0.197 0.247],<0.001,22%,4%
-127,Anthropic,Claude-3-Haiku-20240307 (scratchpad with news with freeze values),0.274,0.209,0.127,0.174,0.241,0.224,[0.206 0.241],<0.001,21%,0%
-128,Anthropic,Claude-3-Haiku-20240307 (scratchpad with news),0.274,0.21,0.129,0.175,0.242,0.224,[0.207 0.242],<0.001,21%,0%
-129,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad with news),0.294,0.188,0.12,0.158,0.241,0.226,[0.201 0.251],<0.001,22%,14%
-130,ForecastBench,Always 0.5,0.25,0.25,0.148,0.206,0.25,0.228,[0.219 0.237],<0.001,15%,0%
-131,OpenAI,GPT-3.5-Turbo-0125 (scratchpad),0.254,0.252,0.141,0.204,0.253,0.229,[0.208 0.249],<0.001,20%,0%
-132,Anthropic,Claude-3-Haiku-20240307 (zero shot),0.295,0.202,0.119,0.166,0.248,0.23,[0.211 0.25 ],<0.001,19%,1%
-133,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 3),0.267,0.228,0.181,0.207,0.247,0.237,[0.218 0.256],<0.001,19%,23%
-134,Meta,Llama-2-70b-Chat-Hf (zero shot),0.232,0.331,0.146,0.251,0.282,0.241,[0.213 0.27 ],<0.001,23%,1%
-135,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 1),0.284,0.303,0.131,0.228,0.293,0.256,[0.23  0.283],<0.001,22%,0%
-136,OpenAI,GPT-3.5-Turbo-0125 (zero shot with freeze values),0.416,0.152,0.093,0.126,0.284,0.271,[0.242 0.301],<0.001,29%,0%
-137,ForecastBench,Always 0,0.335,0.279,0.225,0.256,0.307,0.296,[0.243 0.348],<0.001,41%,0%
-138,ForecastBench,Random Uniform,0.345,0.29,0.223,0.261,0.318,0.303,[0.266 0.34 ],<0.001,24%,0%
-139,OpenAI,GPT-3.5-Turbo-0125 (zero shot),0.416,0.255,0.185,0.224,0.335,0.32,[0.288 0.352],<0.001,22%,0%
-140,ForecastBench,Always 1,0.665,0.721,0.571,0.656,0.693,0.66,[0.604 0.716],<0.001,26%,0%
+Ranking,Organization,Model,Dataset Score (N=316),Market Score (resolved) (N=45),Market Score (unresolved) (N=31),Market Score (overall) (N=76),Overall Resolved Score (N=361),Overall Score (N=392),Overall Score 95% CI,Pairwise p-value comparing to No. 1 (bootstrapped),Pct. more accurate than No. 1,Pct. Imputed
+1,ForecastBench,Superforecaster median forecast,0.123,0.083,0.059,0.073,0.103,0.098,[0.078 0.119],,0%,0%
+2,ForecastBench,Public median forecast,0.156,0.121,0.039,0.088,0.138,0.122,[0.101 0.142],<0.001,23%,0%
+3,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with freeze values),0.144,0.149,0.042,0.105,0.146,0.124,[0.101 0.148],<0.001,31%,0%
+4,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with news with freeze values),0.15,0.151,0.051,0.11,0.151,0.13,[0.107 0.153],<0.001,29%,0%
+5,OpenAI,GPT-4 (zero shot with freeze values),0.167,0.129,0.044,0.094,0.148,0.131,[0.108 0.154],<0.001,31%,0%
+6,OpenAI,GPT-4-Turbo-2024-04-09 (zero shot with freeze values),0.171,0.129,0.041,0.093,0.15,0.132,[0.109 0.155],<0.001,32%,0%
+7,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot with freeze values),0.152,0.165,0.043,0.115,0.158,0.134,[0.105 0.162],<0.001,30%,0%
+8,OpenAI,GPT-4o (scratchpad with news with freeze values),0.171,0.126,0.068,0.103,0.149,0.137,[0.116 0.158],<0.001,25%,0%
+9,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad),0.144,0.182,0.057,0.131,0.163,0.138,[0.115 0.16 ],<0.001,28%,0%
+10,OpenAI,GPT-4o (scratchpad with freeze values),0.168,0.145,0.062,0.111,0.156,0.14,[0.118 0.161],<0.001,27%,0%
+11,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with news),0.15,0.174,0.078,0.135,0.162,0.142,[0.12  0.165],<0.001,26%,0%
+12,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 3),0.165,0.161,0.063,0.121,0.163,0.143,[0.122 0.164],<0.001,25%,3%
+13,Anthropic,Claude-3-Opus-20240229 (zero shot with freeze values),0.173,0.156,0.051,0.113,0.165,0.143,[0.118 0.169],<0.001,24%,0%
+14,OpenAI,GPT-4o (scratchpad),0.168,0.154,0.077,0.123,0.161,0.145,[0.127 0.164],<0.001,24%,0%
+15,Mistral AI,Mistral-Large-Latest (zero shot with freeze values),0.176,0.158,0.052,0.115,0.167,0.145,[0.121 0.17 ],<0.001,23%,0%
+16,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 1),0.158,0.172,0.076,0.133,0.165,0.146,[0.123 0.169],<0.001,25%,0%
+17,Anthropic,Claude-3-Opus-20240229 (scratchpad with freeze values),0.167,0.153,0.088,0.127,0.16,0.147,[0.128 0.166],<0.001,23%,0%
+18,OpenAI,GPT-4o (scratchpad with news),0.171,0.156,0.077,0.123,0.164,0.147,[0.125 0.169],<0.001,22%,0%
+19,Mistral AI,Mistral-Large-Latest (scratchpad with freeze values),0.165,0.158,0.091,0.131,0.162,0.148,[0.13  0.166],<0.001,22%,0%
+20,Google,Gemini-1.5-Pro (scratchpad),0.17,0.17,0.071,0.13,0.17,0.15,[0.132 0.168],<0.001,23%,1%
+21,Google,Gemini-1.5-Pro (scratchpad with news with freeze values),0.174,0.164,0.075,0.128,0.169,0.151,[0.131 0.17 ],<0.001,22%,1%
+22,OpenAI,GPT-4 (scratchpad with freeze values),0.179,0.165,0.066,0.125,0.172,0.152,[0.131 0.172],<0.001,22%,1%
+23,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.183,0.152,0.077,0.121,0.167,0.152,[0.128 0.176],<0.001,26%,0%
+24,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot),0.152,0.197,0.091,0.154,0.175,0.153,[0.125 0.18 ],<0.001,23%,0%
+25,OpenAI,GPT-4-Turbo-2024-04-09 (zero shot),0.171,0.174,0.077,0.135,0.173,0.153,[0.132 0.173],<0.001,22%,0%
+26,Anthropic,Claude-2.1 (scratchpad with freeze values),0.213,0.109,0.072,0.093,0.161,0.153,[0.135 0.171],<0.001,25%,23%
+27,Google,Gemini-1.5-Pro (scratchpad with freeze values),0.17,0.162,0.098,0.136,0.166,0.153,[0.134 0.172],<0.001,23%,0%
+28,Meta,Llama-3-70b-Chat-Hf (scratchpad with freeze values),0.193,0.145,0.069,0.114,0.169,0.153,[0.135 0.171],<0.001,24%,0%
+29,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 1),0.161,0.197,0.071,0.145,0.179,0.153,[0.132 0.175],<0.001,22%,1%
+30,OpenAI,GPT-4o (zero shot with freeze values),0.202,0.152,0.041,0.107,0.177,0.154,[0.129 0.18 ],<0.001,28%,0%
+31,Meta,Llama-3-70b-Chat-Hf (zero shot with freeze values),0.187,0.167,0.057,0.122,0.177,0.155,[0.129 0.181],<0.001,25%,0%
+32,Qwen,Qwen1.5-110B-Chat (zero shot with freeze values),0.197,0.15,0.06,0.113,0.174,0.155,[0.132 0.178],<0.001,20%,0%
+33,Google,Gemini-1.5-Pro (zero shot with freeze values),0.188,0.172,0.05,0.122,0.18,0.155,[0.128 0.183],<0.001,24%,0%
+34,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with freeze values),0.187,0.166,0.066,0.125,0.176,0.156,[0.138 0.174],<0.001,21%,0%
+35,Google,Gemini-1.5-Pro (scratchpad with news),0.174,0.171,0.094,0.139,0.172,0.157,[0.137 0.176],<0.001,22%,0%
+36,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad),0.183,0.17,0.074,0.131,0.176,0.157,[0.139 0.174],<0.001,23%,0%
+37,Google,Gemini-1.5-Flash (zero shot with freeze values),0.191,0.168,0.058,0.123,0.179,0.157,[0.128 0.185],<0.001,23%,0%
+38,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with news with freeze values),0.188,0.134,0.114,0.126,0.161,0.157,[0.134 0.18 ],<0.001,26%,1%
+39,Anthropic,Claude-3-Opus-20240229 (scratchpad),0.167,0.194,0.08,0.147,0.18,0.157,[0.138 0.176],<0.001,22%,1%
+40,OpenAI,GPT-4 (scratchpad),0.179,0.162,0.097,0.135,0.17,0.157,[0.141 0.173],<0.001,18%,1%
+41,Anthropic,Claude-2.1 (scratchpad),0.213,0.105,0.109,0.107,0.159,0.16,[0.14  0.179],<0.001,22%,24%
+42,ForecastBench,Imputed Forecaster,0.25,0.094,0.039,0.071,0.172,0.161,[0.142 0.179],<0.001,25%,100%
+43,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (zero shot with freeze values),0.192,0.163,0.079,0.129,0.178,0.161,[0.134 0.188],<0.001,25%,0%
+44,Anthropic,Claude-2.1 (zero shot with freeze values),0.22,0.15,0.042,0.106,0.185,0.163,[0.139 0.186],<0.001,27%,1%
+45,Qwen,Qwen1.5-110B-Chat (scratchpad with news with freeze values),0.184,0.176,0.101,0.145,0.18,0.165,[0.145 0.185],<0.001,23%,0%
+46,Qwen,Qwen1.5-110B-Chat (scratchpad with freeze values),0.191,0.179,0.081,0.139,0.185,0.165,[0.147 0.183],<0.001,19%,0%
+47,OpenAI,GPT-4 (zero shot),0.167,0.193,0.118,0.163,0.18,0.165,[0.146 0.184],<0.001,23%,0%
+48,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with news),0.188,0.174,0.095,0.142,0.181,0.165,[0.143 0.187],<0.001,25%,0%
+49,Mistral AI,Mistral-Large-Latest (scratchpad),0.165,0.195,0.125,0.166,0.18,0.165,[0.147 0.184],<0.001,22%,0%
+50,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with news with freeze values),0.2,0.163,0.086,0.131,0.181,0.166,[0.147 0.184],<0.001,23%,0%
+51,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with news),0.2,0.169,0.082,0.134,0.185,0.167,[0.15  0.184],<0.001,22%,0%
+52,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with SECOND news),0.204,0.161,0.086,0.131,0.182,0.167,[0.146 0.188],<0.001,19%,0%
+53,OpenAI,GPT-4o (superforecaster with news 3),0.205,0.168,0.08,0.132,0.186,0.168,[0.148 0.189],<0.001,21%,7%
+54,Google,Gemini-1.5-Pro (superforecaster with news 3),0.19,0.169,0.117,0.148,0.18,0.169,[0.149 0.189],<0.001,22%,0%
+55,Anthropic,Claude-3-Opus-20240229 (zero shot),0.173,0.221,0.085,0.165,0.197,0.169,[0.143 0.195],<0.001,18%,0%
+56,OpenAI,GPT-4o (zero shot),0.202,0.168,0.094,0.138,0.185,0.17,[0.148 0.191],<0.001,22%,0%
+57,Meta,Llama-3-8b-Chat-Hf (zero shot with freeze values),0.204,0.161,0.102,0.137,0.183,0.171,[0.145 0.196],<0.001,24%,0%
+58,Qwen,Qwen1.5-110B-Chat (scratchpad with news),0.184,0.192,0.109,0.158,0.188,0.171,[0.151 0.191],<0.001,22%,0%
+59,Google,Gemini-1.5-Flash (scratchpad with freeze values),0.209,0.169,0.083,0.134,0.189,0.171,[0.149 0.194],<0.001,20%,0%
+60,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad),0.187,0.186,0.113,0.156,0.186,0.172,[0.154 0.189],<0.001,20%,0%
+61,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad),0.201,0.15,0.13,0.142,0.176,0.172,[0.151 0.192],<0.001,27%,15%
+62,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 2),0.197,0.195,0.083,0.149,0.196,0.173,[0.15  0.196],<0.001,23%,0%
+63,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 3),0.182,0.188,0.13,0.164,0.185,0.173,[0.151 0.195],<0.001,22%,7%
+64,Qwen,Qwen1.5-110B-Chat (scratchpad),0.191,0.194,0.102,0.156,0.192,0.174,[0.155 0.192],<0.001,20%,0%
+65,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (zero shot with freeze values),0.22,0.185,0.048,0.129,0.202,0.175,[0.144 0.205],<0.001,29%,0%
+66,Anthropic,Claude-3-Opus-20240229 (scratchpad with news with freeze values),0.193,0.193,0.108,0.158,0.193,0.176,[0.154 0.198],<0.001,23%,0%
+67,Meta,Llama-3-8b-Chat-Hf (scratchpad with freeze values),0.225,0.153,0.088,0.127,0.189,0.176,[0.16  0.192],<0.001,23%,0%
+68,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 3),0.207,0.164,0.116,0.145,0.186,0.176,[0.154 0.198],<0.001,20%,12%
+69,Qwen,Qwen1.5-110B-Chat (superforecaster with news 1),0.202,0.198,0.081,0.15,0.2,0.176,[0.151 0.201],<0.001,22%,0%
+70,Mistral AI,Mistral-Large-Latest (zero shot),0.176,0.198,0.146,0.177,0.187,0.177,[0.15  0.203],<0.001,20%,0%
+71,Google,Gemini-1.5-Flash (scratchpad with news with freeze values),0.216,0.154,0.116,0.138,0.185,0.177,[0.153 0.201],<0.001,22%,0%
+72,Qwen,Qwen1.5-110B-Chat (zero shot),0.197,0.198,0.104,0.159,0.197,0.178,[0.158 0.198],<0.001,15%,1%
+73,OpenAI,GPT-4o (superforecaster with news 1),0.201,0.194,0.1,0.155,0.197,0.178,[0.151 0.205],<0.001,25%,0%
+74,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 2),0.179,0.214,0.125,0.178,0.197,0.178,[0.153 0.203],<0.001,22%,0%
+75,Google,Gemini-1.5-Pro (zero shot),0.188,0.217,0.1,0.169,0.202,0.179,[0.15  0.207],<0.001,22%,0%
+76,Anthropic,Claude-2.1 (scratchpad with news with freeze values),0.214,0.174,0.1,0.144,0.194,0.179,[0.157 0.201],<0.001,21%,4%
+77,Anthropic,Claude-3-Opus-20240229 (scratchpad with news),0.193,0.19,0.129,0.165,0.192,0.179,[0.157 0.201],<0.001,22%,0%
+78,Meta,Llama-3-8b-Chat-Hf (zero shot),0.204,0.194,0.098,0.155,0.199,0.179,[0.152 0.206],<0.001,24%,0%
+79,Mistral AI,Mistral-Large-Latest (scratchpad with news with freeze values),0.205,0.168,0.132,0.154,0.187,0.179,[0.158 0.2  ],<0.001,22%,0%
+80,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 3),0.219,0.152,0.125,0.141,0.185,0.18,[0.163 0.197],<0.001,16%,17%
+81,OpenAI,GPT-4o (scratchpad with SECOND news),0.237,0.151,0.085,0.124,0.194,0.18,[0.161 0.2  ],<0.001,18%,2%
+82,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.232,0.162,0.081,0.129,0.197,0.181,[0.163 0.199],<0.001,16%,39%
+83,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.233,0.162,0.08,0.129,0.198,0.181,[0.163 0.199],<0.001,16%,39%
+84,Meta,Llama-3-70b-Chat-Hf (zero shot),0.187,0.219,0.11,0.175,0.203,0.181,[0.158 0.204],<0.001,21%,0%
+85,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.233,0.162,0.08,0.129,0.198,0.181,[0.162 0.2  ],<0.001,17%,39%
+86,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 1),0.211,0.192,0.096,0.153,0.201,0.182,[0.157 0.207],<0.001,20%,0%
+87,Anthropic,Claude-2.1 (scratchpad with news),0.214,0.176,0.118,0.153,0.195,0.183,[0.16  0.206],<0.001,21%,9%
+88,Google,Gemini-1.5-Flash (scratchpad),0.209,0.188,0.118,0.16,0.198,0.184,[0.163 0.205],<0.001,18%,0%
+89,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 1),0.198,0.198,0.136,0.172,0.198,0.185,[0.16 0.21],<0.001,20%,0%
+90,Google,Gemini-1.5-Pro (superforecaster with news 1),0.206,0.217,0.091,0.166,0.211,0.186,[0.161 0.21 ],<0.001,22%,0%
+91,Google,Gemini-1.5-Flash (scratchpad with news),0.216,0.171,0.137,0.157,0.193,0.186,[0.164 0.209],<0.001,20%,0%
+92,Meta,Llama-3-70b-Chat-Hf (scratchpad),0.193,0.216,0.133,0.182,0.204,0.187,[0.171 0.204],<0.001,23%,0%
+93,Mistral AI,Mistral-Large-Latest (scratchpad with news),0.205,0.201,0.125,0.17,0.203,0.188,[0.166 0.209],<0.001,21%,0%
+94,Mistral AI,Mistral-Large-Latest (superforecaster with news 1),0.209,0.205,0.111,0.167,0.207,0.188,[0.162 0.213],<0.001,21%,0%
+95,Google,Gemini-1.5-Flash (zero shot),0.191,0.231,0.125,0.187,0.211,0.189,[0.161 0.217],<0.001,18%,0%
+96,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (zero shot),0.22,0.192,0.112,0.159,0.206,0.19,[0.16  0.219],<0.001,22%,0%
+97,OpenAI,GPT-4o (superforecaster with news 2),0.236,0.169,0.106,0.143,0.203,0.19,[0.164 0.215],<0.001,23%,1%
+98,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (zero shot),0.192,0.23,0.129,0.189,0.211,0.191,[0.163 0.218],<0.001,19%,0%
+99,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 2),0.251,0.158,0.101,0.135,0.204,0.193,[0.167 0.218],<0.001,29%,22%
+100,Qwen,Qwen1.5-110B-Chat (superforecaster with news 3),0.219,0.204,0.115,0.168,0.212,0.193,[0.173 0.214],<0.001,20%,6%
+101,Anthropic,Claude-2.1 (zero shot),0.22,0.208,0.11,0.168,0.214,0.194,[0.174 0.214],<0.001,18%,0%
+102,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 2),0.235,0.189,0.113,0.158,0.212,0.196,[0.177 0.216],<0.001,23%,2%
+103,Meta,Llama-3-8b-Chat-Hf (scratchpad),0.225,0.213,0.103,0.168,0.219,0.197,[0.179 0.214],<0.001,22%,0%
+104,Mistral AI,Mistral-Large-Latest (superforecaster with news 2),0.209,0.221,0.133,0.185,0.215,0.197,[0.171 0.222],<0.001,21%,1%
+105,Anthropic,Claude-2.1 (superforecaster with news 3),0.227,0.185,0.141,0.167,0.206,0.197,[0.175 0.22 ],<0.001,23%,5%
+106,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 2),0.224,0.201,0.13,0.172,0.212,0.198,[0.172 0.224],<0.001,25%,2%
+107,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 1),0.247,0.187,0.094,0.149,0.217,0.198,[0.172 0.224],<0.001,26%,15%
+108,Mistral AI,Mistral-Large-Latest (superforecaster with news 3),0.234,0.178,0.14,0.163,0.206,0.198,[0.177 0.219],<0.001,21%,8%
+109,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad with freeze values),0.201,0.221,0.167,0.199,0.211,0.2,[0.171 0.229],<0.001,24%,11%
+110,Qwen,Qwen1.5-110B-Chat (superforecaster with news 2),0.223,0.232,0.108,0.182,0.228,0.202,[0.181 0.224],<0.001,22%,3%
+111,Meta,Llama-2-70b-Chat-Hf (zero shot with freeze values),0.232,0.233,0.09,0.175,0.233,0.204,[0.176 0.231],<0.001,25%,1%
+112,Google,Gemini-1.5-Flash (superforecaster with news 2),0.223,0.215,0.145,0.186,0.219,0.204,[0.178 0.23 ],<0.001,20%,0%
+113,Meta,Llama-2-70b-Chat-Hf (scratchpad with freeze values),0.225,0.234,0.111,0.184,0.23,0.205,[0.189 0.221],<0.001,22%,0%
+114,Google,Gemini-1.5-Flash (superforecaster with news 3),0.237,0.192,0.144,0.173,0.215,0.205,[0.181 0.229],<0.001,19%,10%
+115,Google,Gemini-1.5-Pro (superforecaster with news 2),0.229,0.22,0.131,0.184,0.224,0.206,[0.177 0.236],<0.001,21%,0%
+116,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad with news with freeze values),0.294,0.12,0.126,0.122,0.207,0.208,[0.188 0.229],<0.001,23%,13%
+117,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 3),0.247,0.171,0.17,0.17,0.209,0.209,[0.186 0.231],<0.001,24%,14%
+118,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 2),0.233,0.217,0.14,0.185,0.225,0.209,[0.19  0.229],<0.001,20%,0%
+119,Anthropic,Claude-3-Haiku-20240307 (scratchpad with freeze values),0.24,0.224,0.117,0.18,0.232,0.21,[0.191 0.229],<0.001,21%,0%
+120,Google,Gemini-1.5-Flash (superforecaster with news 1),0.23,0.247,0.111,0.192,0.238,0.211,[0.182 0.239],<0.001,22%,1%
+121,Anthropic,Claude-3-Haiku-20240307 (zero shot with freeze values),0.295,0.155,0.087,0.127,0.225,0.211,[0.192 0.23 ],<0.001,20%,1%
+122,Anthropic,Claude-3-Haiku-20240307 (scratchpad),0.24,0.222,0.134,0.186,0.231,0.213,[0.195 0.232],<0.001,22%,0%
+123,Meta,Llama-2-70b-Chat-Hf (scratchpad),0.225,0.251,0.153,0.211,0.238,0.218,[0.199 0.238],<0.001,22%,1%
+124,Anthropic,Claude-2.1 (superforecaster with news 2),0.24,0.236,0.142,0.198,0.238,0.219,[0.193 0.245],<0.001,24%,11%
+125,OpenAI,GPT-3.5-Turbo-0125 (scratchpad with freeze values),0.254,0.232,0.13,0.19,0.243,0.222,[0.202 0.242],<0.001,21%,0%
+126,Anthropic,Claude-2.1 (superforecaster with news 1),0.263,0.231,0.109,0.181,0.247,0.222,[0.197 0.247],<0.001,22%,4%
+127,Anthropic,Claude-3-Haiku-20240307 (scratchpad with news with freeze values),0.274,0.206,0.127,0.174,0.24,0.224,[0.206 0.241],<0.001,21%,0%
+128,Anthropic,Claude-3-Haiku-20240307 (scratchpad with news),0.274,0.207,0.129,0.175,0.24,0.224,[0.207 0.242],<0.001,21%,0%
+129,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (scratchpad with news),0.294,0.18,0.127,0.158,0.237,0.226,[0.201 0.251],<0.001,22%,14%
+130,ForecastBench,Always 0.5,0.25,0.25,0.143,0.206,0.25,0.228,[0.219 0.237],<0.001,15%,0%
+131,OpenAI,GPT-3.5-Turbo-0125 (scratchpad),0.254,0.246,0.143,0.204,0.25,0.229,[0.208 0.249],<0.001,20%,0%
+132,Anthropic,Claude-3-Haiku-20240307 (zero shot),0.295,0.198,0.121,0.166,0.246,0.231,[0.211 0.25 ],<0.001,19%,1%
+133,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 3),0.267,0.228,0.178,0.207,0.247,0.237,[0.218 0.256],<0.001,19%,23%
+134,Meta,Llama-2-70b-Chat-Hf (zero shot),0.232,0.322,0.148,0.251,0.277,0.242,[0.213 0.27 ],<0.001,23%,1%
+135,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 1),0.284,0.293,0.135,0.229,0.289,0.256,[0.23  0.283],<0.001,22%,0%
+136,OpenAI,GPT-3.5-Turbo-0125 (zero shot with freeze values),0.416,0.145,0.099,0.126,0.281,0.271,[0.242 0.301],<0.001,29%,0%
+137,ForecastBench,Always 0,0.335,0.289,0.209,0.256,0.312,0.296,[0.243 0.349],<0.001,41%,0%
+138,ForecastBench,Random Uniform,0.345,0.289,0.221,0.261,0.317,0.303,[0.266 0.34 ],<0.001,24%,0%
+139,OpenAI,GPT-3.5-Turbo-0125 (zero shot),0.416,0.245,0.194,0.224,0.331,0.32,[0.288 0.352],<0.001,22%,0%
+140,ForecastBench,Always 1,0.665,0.711,0.576,0.656,0.688,0.66,[0.604 0.716],<0.001,27%,0%
