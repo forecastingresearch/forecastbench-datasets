@@ -40383,7 +40383,7 @@
             "source": "fred",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0,
+            "resolved_to": 1.0,
             "resolved": true
         },
         {
@@ -44333,34 +44333,6 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "CCSA",
-                "DPSACBW027SBOG"
-            ],
-            "source": "fred",
-            "direction": [
-                1,
-                -1
-            ],
-            "resolution_date": "2025-01-17",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "CCSA",
-                "DPSACBW027SBOG"
-            ],
-            "source": "fred",
-            "direction": [
-                -1,
-                1
-            ],
-            "resolution_date": "2025-01-17",
             "resolved_to": 1.0,
             "resolved": true
         },
@@ -44371,6 +44343,34 @@
             ],
             "source": "fred",
             "direction": [
+                1,
+                -1
+            ],
+            "resolution_date": "2025-01-17",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "CCSA",
+                "DPSACBW027SBOG"
+            ],
+            "source": "fred",
+            "direction": [
+                -1,
+                1
+            ],
+            "resolution_date": "2025-01-17",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "CCSA",
+                "DPSACBW027SBOG"
+            ],
+            "source": "fred",
+            "direction": [
                 -1,
                 -1
             ],
@@ -44571,7 +44571,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0,
+            "resolved_to": 1.0,
             "resolved": true
         },
         {
@@ -44599,7 +44599,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 1.0,
+            "resolved_to": 0.0,
             "resolved": true
         },
         {
@@ -55063,7 +55063,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.1436,
+            "resolved_to": 0.145,
             "resolved": false
         },
         {
@@ -55071,7 +55071,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.1436,
+            "resolved_to": 0.145,
             "resolved": false
         },
         {
@@ -55079,7 +55079,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.1436,
+            "resolved_to": 0.145,
             "resolved": false
         },
         {
@@ -55087,7 +55087,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.1436,
+            "resolved_to": 0.145,
             "resolved": false
         },
         {
@@ -55127,7 +55127,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -55135,7 +55135,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -55143,7 +55143,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -55151,7 +55151,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -55159,7 +55159,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -55167,7 +55167,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -55175,7 +55175,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -55183,7 +55183,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -55191,7 +55191,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.281,
+            "resolved_to": 0.2916,
             "resolved": false
         },
         {
@@ -55199,7 +55199,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.281,
+            "resolved_to": 0.2916,
             "resolved": false
         },
         {
@@ -55207,7 +55207,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.281,
+            "resolved_to": 0.2916,
             "resolved": false
         },
         {
@@ -55215,7 +55215,7 @@
             "source": "infer",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.281,
+            "resolved_to": 0.2916,
             "resolved": false
         },
         {
@@ -55677,7 +55677,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0019098800000000003,
+            "resolved_to": 0.0019285,
             "resolved": false
         },
         {
@@ -55691,7 +55691,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.14169012,
+            "resolved_to": 0.1430715,
             "resolved": false
         },
         {
@@ -55705,7 +55705,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.011390120000000002,
+            "resolved_to": 0.011371500000000001,
             "resolved": false
         },
         {
@@ -55719,7 +55719,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.8450098800000001,
+            "resolved_to": 0.8436285,
             "resolved": false
         },
         {
@@ -55733,7 +55733,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0019098800000000003,
+            "resolved_to": 0.0019285,
             "resolved": false
         },
         {
@@ -55747,7 +55747,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.14169012,
+            "resolved_to": 0.1430715,
             "resolved": false
         },
         {
@@ -55761,7 +55761,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.011390120000000002,
+            "resolved_to": 0.011371500000000001,
             "resolved": false
         },
         {
@@ -55775,7 +55775,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.8450098800000001,
+            "resolved_to": 0.8436285,
             "resolved": false
         },
         {
@@ -55789,7 +55789,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0019098800000000003,
+            "resolved_to": 0.0019285,
             "resolved": false
         },
         {
@@ -55803,7 +55803,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.14169012,
+            "resolved_to": 0.1430715,
             "resolved": false
         },
         {
@@ -55817,7 +55817,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.011390120000000002,
+            "resolved_to": 0.011371500000000001,
             "resolved": false
         },
         {
@@ -55831,7 +55831,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.8450098800000001,
+            "resolved_to": 0.8436285,
             "resolved": false
         },
         {
@@ -55845,7 +55845,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0019098800000000003,
+            "resolved_to": 0.0019285,
             "resolved": false
         },
         {
@@ -55859,7 +55859,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.14169012,
+            "resolved_to": 0.1430715,
             "resolved": false
         },
         {
@@ -55873,7 +55873,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.011390120000000002,
+            "resolved_to": 0.011371500000000001,
             "resolved": false
         },
         {
@@ -55887,7 +55887,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.8450098800000001,
+            "resolved_to": 0.8436285,
             "resolved": false
         },
         {
@@ -55901,7 +55901,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0033458800000000003,
+            "resolved_to": 0.0033785,
             "resolved": false
         },
         {
@@ -55915,7 +55915,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.14025412,
+            "resolved_to": 0.14162149999999998,
             "resolved": false
         },
         {
@@ -55929,7 +55929,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.019954120000000002,
+            "resolved_to": 0.0199215,
             "resolved": false
         },
         {
@@ -55943,7 +55943,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.8364458800000001,
+            "resolved_to": 0.8350785,
             "resolved": false
         },
         {
@@ -55957,7 +55957,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0033458800000000003,
+            "resolved_to": 0.0033785,
             "resolved": false
         },
         {
@@ -55971,7 +55971,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.14025412,
+            "resolved_to": 0.14162149999999998,
             "resolved": false
         },
         {
@@ -55985,7 +55985,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.019954120000000002,
+            "resolved_to": 0.0199215,
             "resolved": false
         },
         {
@@ -55999,7 +55999,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.8364458800000001,
+            "resolved_to": 0.8350785,
             "resolved": false
         },
         {
@@ -56013,7 +56013,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0033458800000000003,
+            "resolved_to": 0.0033785,
             "resolved": false
         },
         {
@@ -56027,7 +56027,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.14025412,
+            "resolved_to": 0.14162149999999998,
             "resolved": false
         },
         {
@@ -56041,7 +56041,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.019954120000000002,
+            "resolved_to": 0.0199215,
             "resolved": false
         },
         {
@@ -56055,7 +56055,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.8364458800000001,
+            "resolved_to": 0.8350785,
             "resolved": false
         },
         {
@@ -56069,7 +56069,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0033458800000000003,
+            "resolved_to": 0.0033785,
             "resolved": false
         },
         {
@@ -56083,7 +56083,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.14025412,
+            "resolved_to": 0.14162149999999998,
             "resolved": false
         },
         {
@@ -56097,7 +56097,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.019954120000000002,
+            "resolved_to": 0.0199215,
             "resolved": false
         },
         {
@@ -56111,7 +56111,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.8364458800000001,
+            "resolved_to": 0.8350785,
             "resolved": false
         },
         {
@@ -56363,7 +56363,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -56391,7 +56391,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.8678,
+            "resolved_to": 0.868,
             "resolved": false
         },
         {
@@ -56419,7 +56419,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -56447,7 +56447,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.8678,
+            "resolved_to": 0.868,
             "resolved": false
         },
         {
@@ -56475,7 +56475,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -56503,7 +56503,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.8678,
+            "resolved_to": 0.868,
             "resolved": false
         },
         {
@@ -56531,7 +56531,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.1322,
+            "resolved_to": 0.132,
             "resolved": false
         },
         {
@@ -56559,7 +56559,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.8678,
+            "resolved_to": 0.868,
             "resolved": false
         },
         {
@@ -56573,7 +56573,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0017582600000000002,
+            "resolved_to": 0.0017556000000000002,
             "resolved": false
         },
         {
@@ -56587,7 +56587,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.13044174000000003,
+            "resolved_to": 0.1302444,
             "resolved": false
         },
         {
@@ -56601,7 +56601,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.011541740000000002,
+            "resolved_to": 0.011544400000000002,
             "resolved": false
         },
         {
@@ -56615,7 +56615,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.85625826,
+            "resolved_to": 0.8564556,
             "resolved": false
         },
         {
@@ -56629,7 +56629,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0017582600000000002,
+            "resolved_to": 0.0017556000000000002,
             "resolved": false
         },
         {
@@ -56643,7 +56643,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.13044174000000003,
+            "resolved_to": 0.1302444,
             "resolved": false
         },
         {
@@ -56657,7 +56657,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.011541740000000002,
+            "resolved_to": 0.011544400000000002,
             "resolved": false
         },
         {
@@ -56671,7 +56671,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.85625826,
+            "resolved_to": 0.8564556,
             "resolved": false
         },
         {
@@ -56685,7 +56685,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0017582600000000002,
+            "resolved_to": 0.0017556000000000002,
             "resolved": false
         },
         {
@@ -56699,7 +56699,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.13044174000000003,
+            "resolved_to": 0.1302444,
             "resolved": false
         },
         {
@@ -56713,7 +56713,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.011541740000000002,
+            "resolved_to": 0.011544400000000002,
             "resolved": false
         },
         {
@@ -56727,7 +56727,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.85625826,
+            "resolved_to": 0.8564556,
             "resolved": false
         },
         {
@@ -56741,7 +56741,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0017582600000000002,
+            "resolved_to": 0.0017556000000000002,
             "resolved": false
         },
         {
@@ -56755,7 +56755,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.13044174000000003,
+            "resolved_to": 0.1302444,
             "resolved": false
         },
         {
@@ -56769,7 +56769,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.011541740000000002,
+            "resolved_to": 0.011544400000000002,
             "resolved": false
         },
         {
@@ -56783,7 +56783,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.85625826,
+            "resolved_to": 0.8564556,
             "resolved": false
         },
         {
@@ -56797,7 +56797,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0030802600000000005,
+            "resolved_to": 0.0030756000000000004,
             "resolved": false
         },
         {
@@ -56811,7 +56811,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.12911974,
+            "resolved_to": 0.1289244,
             "resolved": false
         },
         {
@@ -56825,7 +56825,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.02021974,
+            "resolved_to": 0.0202244,
             "resolved": false
         },
         {
@@ -56839,7 +56839,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.84758026,
+            "resolved_to": 0.8477756,
             "resolved": false
         },
         {
@@ -56853,7 +56853,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0030802600000000005,
+            "resolved_to": 0.0030756000000000004,
             "resolved": false
         },
         {
@@ -56867,7 +56867,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.12911974,
+            "resolved_to": 0.1289244,
             "resolved": false
         },
         {
@@ -56881,7 +56881,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.02021974,
+            "resolved_to": 0.0202244,
             "resolved": false
         },
         {
@@ -56895,7 +56895,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.84758026,
+            "resolved_to": 0.8477756,
             "resolved": false
         },
         {
@@ -56909,7 +56909,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0030802600000000005,
+            "resolved_to": 0.0030756000000000004,
             "resolved": false
         },
         {
@@ -56923,7 +56923,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.12911974,
+            "resolved_to": 0.1289244,
             "resolved": false
         },
         {
@@ -56937,7 +56937,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.02021974,
+            "resolved_to": 0.0202244,
             "resolved": false
         },
         {
@@ -56951,7 +56951,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.84758026,
+            "resolved_to": 0.8477756,
             "resolved": false
         },
         {
@@ -56965,7 +56965,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0030802600000000005,
+            "resolved_to": 0.0030756000000000004,
             "resolved": false
         },
         {
@@ -56979,7 +56979,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.12911974,
+            "resolved_to": 0.1289244,
             "resolved": false
         },
         {
@@ -56993,7 +56993,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.02021974,
+            "resolved_to": 0.0202244,
             "resolved": false
         },
         {
@@ -57007,7 +57007,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.84758026,
+            "resolved_to": 0.8477756,
             "resolved": false
         },
         {
@@ -57018,34 +57018,6 @@
             "source": "infer",
             "direction": [
                 1,
-                1
-            ],
-            "resolution_date": "2024-07-28",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "1413",
-                "1285"
-            ],
-            "source": "infer",
-            "direction": [
-                1,
-                -1
-            ],
-            "resolution_date": "2024-07-28",
-            "resolved_to": 0.0088,
-            "resolved": false
-        },
-        {
-            "id": [
-                "1413",
-                "1285"
-            ],
-            "source": "infer",
-            "direction": [
-                -1,
                 1
             ],
             "resolution_date": "2024-07-28",
@@ -57059,11 +57031,39 @@
             ],
             "source": "infer",
             "direction": [
+                1,
+                -1
+            ],
+            "resolution_date": "2024-07-28",
+            "resolved_to": 0.008700000000000001,
+            "resolved": false
+        },
+        {
+            "id": [
+                "1413",
+                "1285"
+            ],
+            "source": "infer",
+            "direction": [
+                -1,
+                1
+            ],
+            "resolution_date": "2024-07-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "1413",
+                "1285"
+            ],
+            "source": "infer",
+            "direction": [
                 -1,
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.9912,
+            "resolved_to": 0.9913,
             "resolved": false
         },
         {
@@ -57091,7 +57091,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -57119,7 +57119,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.9912,
+            "resolved_to": 0.9913,
             "resolved": false
         },
         {
@@ -57147,7 +57147,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -57175,7 +57175,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.9912,
+            "resolved_to": 0.9913,
             "resolved": false
         },
         {
@@ -57203,7 +57203,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0088,
+            "resolved_to": 0.008700000000000001,
             "resolved": false
         },
         {
@@ -57231,7 +57231,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.9912,
+            "resolved_to": 0.9913,
             "resolved": false
         },
         {
@@ -57463,7 +57463,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.4654316036,
+            "resolved_to": 0.45,
             "resolved": false
         },
         {
@@ -57471,7 +57471,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.4654316036,
+            "resolved_to": 0.45,
             "resolved": false
         },
         {
@@ -57479,7 +57479,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.4654316036,
+            "resolved_to": 0.45,
             "resolved": false
         },
         {
@@ -57487,7 +57487,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.4654316036,
+            "resolved_to": 0.45,
             "resolved": false
         },
         {
@@ -57751,7 +57751,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -57759,7 +57759,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -57767,7 +57767,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -57775,7 +57775,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -58775,7 +58775,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -58783,7 +58783,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -58791,7 +58791,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -58799,7 +58799,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -58871,7 +58871,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.34586301550000004,
+            "resolved_to": 0.328635736,
             "resolved": false
         },
         {
@@ -58879,7 +58879,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.34586301550000004,
+            "resolved_to": 0.328635736,
             "resolved": false
         },
         {
@@ -58887,7 +58887,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.34586301550000004,
+            "resolved_to": 0.328635736,
             "resolved": false
         },
         {
@@ -58895,7 +58895,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.34586301550000004,
+            "resolved_to": 0.328635736,
             "resolved": false
         },
         {
@@ -58903,7 +58903,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -58911,7 +58911,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -58919,7 +58919,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -58927,7 +58927,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -58999,7 +58999,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -59007,7 +59007,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -59015,7 +59015,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -59023,7 +59023,7 @@
             "source": "manifold",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -60445,7 +60445,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.11423700713527474,
+            "resolved_to": 0.11044942546500001,
             "resolved": false
         },
         {
@@ -60459,7 +60459,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.3511945964647253,
+            "resolved_to": 0.33955057453500004,
             "resolved": false
         },
         {
@@ -60473,7 +60473,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.13120616056472528,
+            "resolved_to": 0.13499374223500002,
             "resolved": false
         },
         {
@@ -60487,7 +60487,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.40336223583527475,
+            "resolved_to": 0.41500625776500005,
             "resolved": false
         },
         {
@@ -60501,7 +60501,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.11423700713527474,
+            "resolved_to": 0.11044942546500001,
             "resolved": false
         },
         {
@@ -60515,7 +60515,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.3511945964647253,
+            "resolved_to": 0.33955057453500004,
             "resolved": false
         },
         {
@@ -60529,7 +60529,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.13120616056472528,
+            "resolved_to": 0.13499374223500002,
             "resolved": false
         },
         {
@@ -60543,7 +60543,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.40336223583527475,
+            "resolved_to": 0.41500625776500005,
             "resolved": false
         },
         {
@@ -60557,7 +60557,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.11423700713527474,
+            "resolved_to": 0.11044942546500001,
             "resolved": false
         },
         {
@@ -60571,7 +60571,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.3511945964647253,
+            "resolved_to": 0.33955057453500004,
             "resolved": false
         },
         {
@@ -60585,7 +60585,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.13120616056472528,
+            "resolved_to": 0.13499374223500002,
             "resolved": false
         },
         {
@@ -60599,7 +60599,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.40336223583527475,
+            "resolved_to": 0.41500625776500005,
             "resolved": false
         },
         {
@@ -60613,7 +60613,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.11423700713527474,
+            "resolved_to": 0.11044942546500001,
             "resolved": false
         },
         {
@@ -60627,7 +60627,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.3511945964647253,
+            "resolved_to": 0.33955057453500004,
             "resolved": false
         },
         {
@@ -60641,7 +60641,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.13120616056472528,
+            "resolved_to": 0.13499374223500002,
             "resolved": false
         },
         {
@@ -60655,7 +60655,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.40336223583527475,
+            "resolved_to": 0.41500625776500005,
             "resolved": false
         },
         {
@@ -60669,7 +60669,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.04390188232001457,
+            "resolved_to": 0.042446294775000004,
             "resolved": false
         },
         {
@@ -60683,7 +60683,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.42152972127998545,
+            "resolved_to": 0.407553705225,
             "resolved": false
         },
         {
@@ -60697,7 +60697,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.05042321717998544,
+            "resolved_to": 0.05187880472500001,
             "resolved": false
         },
         {
@@ -60711,7 +60711,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.48414517922001454,
+            "resolved_to": 0.49812119527500004,
             "resolved": false
         },
         {
@@ -60725,7 +60725,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.04390188232001457,
+            "resolved_to": 0.042446294775000004,
             "resolved": false
         },
         {
@@ -60739,7 +60739,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.42152972127998545,
+            "resolved_to": 0.407553705225,
             "resolved": false
         },
         {
@@ -60753,7 +60753,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.05042321717998544,
+            "resolved_to": 0.05187880472500001,
             "resolved": false
         },
         {
@@ -60767,7 +60767,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.48414517922001454,
+            "resolved_to": 0.49812119527500004,
             "resolved": false
         },
         {
@@ -60781,7 +60781,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.04390188232001457,
+            "resolved_to": 0.042446294775000004,
             "resolved": false
         },
         {
@@ -60795,7 +60795,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.42152972127998545,
+            "resolved_to": 0.407553705225,
             "resolved": false
         },
         {
@@ -60809,7 +60809,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.05042321717998544,
+            "resolved_to": 0.05187880472500001,
             "resolved": false
         },
         {
@@ -60823,7 +60823,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.48414517922001454,
+            "resolved_to": 0.49812119527500004,
             "resolved": false
         },
         {
@@ -60837,7 +60837,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.04390188232001457,
+            "resolved_to": 0.042446294775000004,
             "resolved": false
         },
         {
@@ -60851,7 +60851,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.42152972127998545,
+            "resolved_to": 0.407553705225,
             "resolved": false
         },
         {
@@ -60865,7 +60865,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.05042321717998544,
+            "resolved_to": 0.05187880472500001,
             "resolved": false
         },
         {
@@ -60879,7 +60879,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.48414517922001454,
+            "resolved_to": 0.49812119527500004,
             "resolved": false
         },
         {
@@ -61579,7 +61579,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61607,7 +61607,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61635,7 +61635,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61663,7 +61663,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61691,7 +61691,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61719,7 +61719,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61747,7 +61747,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61775,7 +61775,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61803,7 +61803,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61831,7 +61831,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61859,7 +61859,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61887,7 +61887,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61915,7 +61915,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61943,7 +61943,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -61971,7 +61971,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -61999,7 +61999,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -62685,7 +62685,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -62699,7 +62699,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -62741,7 +62741,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -62755,7 +62755,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -62797,7 +62797,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -62811,7 +62811,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -62853,7 +62853,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -62867,7 +62867,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -63133,7 +63133,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -63147,7 +63147,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -63189,7 +63189,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -63203,7 +63203,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -63245,7 +63245,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -63259,7 +63259,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -63301,7 +63301,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.5707038875,
+            "resolved_to": 0.63,
             "resolved": false
         },
         {
@@ -63315,7 +63315,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.4292961125,
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
@@ -64029,7 +64029,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -64043,7 +64043,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -64085,7 +64085,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -64099,7 +64099,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -64141,7 +64141,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -64155,7 +64155,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -64197,7 +64197,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -64211,7 +64211,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -64295,6 +64295,62 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "UQRBDDvSiDEEsJbevE4p",
+                "xv86CDBe0flxF2epvO3f"
+            ],
+            "source": "manifold",
+            "direction": [
+                1,
+                1
+            ],
+            "resolution_date": "2024-08-20",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "UQRBDDvSiDEEsJbevE4p",
+                "xv86CDBe0flxF2epvO3f"
+            ],
+            "source": "manifold",
+            "direction": [
+                1,
+                -1
+            ],
+            "resolution_date": "2024-08-20",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "UQRBDDvSiDEEsJbevE4p",
+                "xv86CDBe0flxF2epvO3f"
+            ],
+            "source": "manifold",
+            "direction": [
+                -1,
+                1
+            ],
+            "resolution_date": "2024-08-20",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": [
+                "UQRBDDvSiDEEsJbevE4p",
+                "xv86CDBe0flxF2epvO3f"
+            ],
+            "source": "manifold",
+            "direction": [
+                -1,
+                -1
+            ],
+            "resolution_date": "2024-08-20",
             "resolved_to": 1.0,
             "resolved": true
         },
@@ -64308,62 +64364,6 @@
                 1,
                 1
             ],
-            "resolution_date": "2024-08-20",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "UQRBDDvSiDEEsJbevE4p",
-                "xv86CDBe0flxF2epvO3f"
-            ],
-            "source": "manifold",
-            "direction": [
-                1,
-                -1
-            ],
-            "resolution_date": "2024-08-20",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "UQRBDDvSiDEEsJbevE4p",
-                "xv86CDBe0flxF2epvO3f"
-            ],
-            "source": "manifold",
-            "direction": [
-                -1,
-                1
-            ],
-            "resolution_date": "2024-08-20",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "UQRBDDvSiDEEsJbevE4p",
-                "xv86CDBe0flxF2epvO3f"
-            ],
-            "source": "manifold",
-            "direction": [
-                -1,
-                -1
-            ],
-            "resolution_date": "2024-08-20",
-            "resolved_to": 1.0,
-            "resolved": true
-        },
-        {
-            "id": [
-                "UQRBDDvSiDEEsJbevE4p",
-                "xv86CDBe0flxF2epvO3f"
-            ],
-            "source": "manifold",
-            "direction": [
-                1,
-                1
-            ],
             "resolution_date": "2024-10-19",
             "resolved_to": 0.0,
             "resolved": true
@@ -64701,7 +64701,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.3057200274118183,
+            "resolved_to": 0.29558373619500006,
             "resolved": false
         },
         {
@@ -64715,7 +64715,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.35113271968818177,
+            "resolved_to": 0.3612690109050001,
             "resolved": false
         },
         {
@@ -64729,7 +64729,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.15971157618818171,
+            "resolved_to": 0.15441626380499998,
             "resolved": false
         },
         {
@@ -64743,7 +64743,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.1834356767118182,
+            "resolved_to": 0.18873098909499997,
             "resolved": false
         },
         {
@@ -64757,7 +64757,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.3057200274118183,
+            "resolved_to": 0.29558373619500006,
             "resolved": false
         },
         {
@@ -64771,7 +64771,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.35113271968818177,
+            "resolved_to": 0.3612690109050001,
             "resolved": false
         },
         {
@@ -64785,7 +64785,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.15971157618818171,
+            "resolved_to": 0.15441626380499998,
             "resolved": false
         },
         {
@@ -64799,7 +64799,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.1834356767118182,
+            "resolved_to": 0.18873098909499997,
             "resolved": false
         },
         {
@@ -64813,7 +64813,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.3057200274118183,
+            "resolved_to": 0.29558373619500006,
             "resolved": false
         },
         {
@@ -64827,7 +64827,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.35113271968818177,
+            "resolved_to": 0.3612690109050001,
             "resolved": false
         },
         {
@@ -64841,7 +64841,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.15971157618818171,
+            "resolved_to": 0.15441626380499998,
             "resolved": false
         },
         {
@@ -64855,7 +64855,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.1834356767118182,
+            "resolved_to": 0.18873098909499997,
             "resolved": false
         },
         {
@@ -64869,7 +64869,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.3057200274118183,
+            "resolved_to": 0.29558373619500006,
             "resolved": false
         },
         {
@@ -64883,7 +64883,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.35113271968818177,
+            "resolved_to": 0.3612690109050001,
             "resolved": false
         },
         {
@@ -64897,7 +64897,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.15971157618818171,
+            "resolved_to": 0.15441626380499998,
             "resolved": false
         },
         {
@@ -64911,7 +64911,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.1834356767118182,
+            "resolved_to": 0.18873098909499997,
             "resolved": false
         },
         {
@@ -65597,7 +65597,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.021180831000692405,
+            "resolved_to": 0.021926569851700686,
             "resolved": false
         },
         {
@@ -65611,7 +65611,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.07391137519930759,
+            "resolved_to": 0.07316563634829933,
             "resolved": false
         },
         {
@@ -65625,7 +65625,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.2015590952993076,
+            "resolved_to": 0.20865562744829932,
             "resolved": false
         },
         {
@@ -65639,7 +65639,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.7033486985006924,
+            "resolved_to": 0.6962521663517007,
             "resolved": false
         },
         {
@@ -65653,7 +65653,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.021180831000692405,
+            "resolved_to": 0.021926569851700686,
             "resolved": false
         },
         {
@@ -65667,7 +65667,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.07391137519930759,
+            "resolved_to": 0.07316563634829933,
             "resolved": false
         },
         {
@@ -65681,7 +65681,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.2015590952993076,
+            "resolved_to": 0.20865562744829932,
             "resolved": false
         },
         {
@@ -65695,7 +65695,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.7033486985006924,
+            "resolved_to": 0.6962521663517007,
             "resolved": false
         },
         {
@@ -65709,7 +65709,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.021180831000692405,
+            "resolved_to": 0.021926569851700686,
             "resolved": false
         },
         {
@@ -65723,7 +65723,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.07391137519930759,
+            "resolved_to": 0.07316563634829933,
             "resolved": false
         },
         {
@@ -65737,7 +65737,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.2015590952993076,
+            "resolved_to": 0.20865562744829932,
             "resolved": false
         },
         {
@@ -65751,7 +65751,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.7033486985006924,
+            "resolved_to": 0.6962521663517007,
             "resolved": false
         },
         {
@@ -65765,7 +65765,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.021180831000692405,
+            "resolved_to": 0.021926569851700686,
             "resolved": false
         },
         {
@@ -65779,7 +65779,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.07391137519930759,
+            "resolved_to": 0.07316563634829933,
             "resolved": false
         },
         {
@@ -65793,7 +65793,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.2015590952993076,
+            "resolved_to": 0.20865562744829932,
             "resolved": false
         },
         {
@@ -65807,7 +65807,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.7033486985006924,
+            "resolved_to": 0.6962521663517007,
             "resolved": false
         },
         {
@@ -68285,7 +68285,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.22142045421632706,
+            "resolved_to": 0.21407915497500002,
             "resolved": false
         },
         {
@@ -68299,7 +68299,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.25431100128367295,
+            "resolved_to": 0.26165230052500005,
             "resolved": false
         },
         {
@@ -68313,7 +68313,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.24401114938367294,
+            "resolved_to": 0.23592084502499996,
             "resolved": false
         },
         {
@@ -68327,7 +68327,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.28025739511632697,
+            "resolved_to": 0.288347699475,
             "resolved": false
         },
         {
@@ -68341,7 +68341,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.22142045421632706,
+            "resolved_to": 0.21407915497500002,
             "resolved": false
         },
         {
@@ -68355,7 +68355,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.25431100128367295,
+            "resolved_to": 0.26165230052500005,
             "resolved": false
         },
         {
@@ -68369,7 +68369,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.24401114938367294,
+            "resolved_to": 0.23592084502499996,
             "resolved": false
         },
         {
@@ -68383,7 +68383,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.28025739511632697,
+            "resolved_to": 0.288347699475,
             "resolved": false
         },
         {
@@ -68397,7 +68397,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.22142045421632706,
+            "resolved_to": 0.21407915497500002,
             "resolved": false
         },
         {
@@ -68411,7 +68411,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.25431100128367295,
+            "resolved_to": 0.26165230052500005,
             "resolved": false
         },
         {
@@ -68425,7 +68425,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.24401114938367294,
+            "resolved_to": 0.23592084502499996,
             "resolved": false
         },
         {
@@ -68439,7 +68439,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.28025739511632697,
+            "resolved_to": 0.288347699475,
             "resolved": false
         },
         {
@@ -68453,7 +68453,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.22142045421632706,
+            "resolved_to": 0.21407915497500002,
             "resolved": false
         },
         {
@@ -68467,7 +68467,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.25431100128367295,
+            "resolved_to": 0.26165230052500005,
             "resolved": false
         },
         {
@@ -68481,7 +68481,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.24401114938367294,
+            "resolved_to": 0.23592084502499996,
             "resolved": false
         },
         {
@@ -68495,7 +68495,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.28025739511632697,
+            "resolved_to": 0.288347699475,
             "resolved": false
         },
         {
@@ -68957,7 +68957,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -68985,7 +68985,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -69013,7 +69013,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -69041,7 +69041,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -69069,7 +69069,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -69097,7 +69097,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -69125,7 +69125,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.6767177993,
+            "resolved_to": 0.6583530219,
             "resolved": false
         },
         {
@@ -69153,7 +69153,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.3232822007,
+            "resolved_to": 0.3416469781,
             "resolved": false
         },
         {
@@ -69181,7 +69181,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.47370245951,
+            "resolved_to": 0.46084711533000006,
             "resolved": false
         },
         {
@@ -69195,7 +69195,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.20301533978999994,
+            "resolved_to": 0.19750590656999994,
             "resolved": false
         },
         {
@@ -69209,7 +69209,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.22629754049000003,
+            "resolved_to": 0.23915288467,
             "resolved": false
         },
         {
@@ -69223,7 +69223,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.09698466020999999,
+            "resolved_to": 0.10249409342999997,
             "resolved": false
         },
         {
@@ -69237,7 +69237,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.47370245951,
+            "resolved_to": 0.46084711533000006,
             "resolved": false
         },
         {
@@ -69251,7 +69251,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.20301533978999994,
+            "resolved_to": 0.19750590656999994,
             "resolved": false
         },
         {
@@ -69265,7 +69265,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.22629754049000003,
+            "resolved_to": 0.23915288467,
             "resolved": false
         },
         {
@@ -69279,7 +69279,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.09698466020999999,
+            "resolved_to": 0.10249409342999997,
             "resolved": false
         },
         {
@@ -69293,7 +69293,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.47370245951,
+            "resolved_to": 0.46084711533000006,
             "resolved": false
         },
         {
@@ -69307,7 +69307,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.20301533978999994,
+            "resolved_to": 0.19750590656999994,
             "resolved": false
         },
         {
@@ -69321,7 +69321,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.22629754049000003,
+            "resolved_to": 0.23915288467,
             "resolved": false
         },
         {
@@ -69335,7 +69335,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.09698466020999999,
+            "resolved_to": 0.10249409342999997,
             "resolved": false
         },
         {
@@ -69349,7 +69349,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.47370245951,
+            "resolved_to": 0.46084711533000006,
             "resolved": false
         },
         {
@@ -69363,7 +69363,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.20301533978999994,
+            "resolved_to": 0.19750590656999994,
             "resolved": false
         },
         {
@@ -69377,7 +69377,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.22629754049000003,
+            "resolved_to": 0.23915288467,
             "resolved": false
         },
         {
@@ -69391,7 +69391,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.09698466020999999,
+            "resolved_to": 0.10249409342999997,
             "resolved": false
         },
         {
@@ -70105,7 +70105,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -70119,7 +70119,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -70161,7 +70161,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -70175,7 +70175,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -70217,7 +70217,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -70231,7 +70231,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -70273,7 +70273,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.0375815789,
+            "resolved_to": 0.036834331500000005,
             "resolved": false
         },
         {
@@ -70287,7 +70287,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.9624184211,
+            "resolved_to": 0.9631656685,
             "resolved": false
         },
         {
@@ -70315,7 +70315,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -70343,7 +70343,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.7772600736999999,
+            "resolved_to": 0.7694178027,
             "resolved": false
         },
         {
@@ -70371,7 +70371,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -70399,7 +70399,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.7772600736999999,
+            "resolved_to": 0.7694178027,
             "resolved": false
         },
         {
@@ -70427,7 +70427,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -70455,7 +70455,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.7772600736999999,
+            "resolved_to": 0.7694178027,
             "resolved": false
         },
         {
@@ -70483,7 +70483,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.2227399263,
+            "resolved_to": 0.2305821973,
             "resolved": false
         },
         {
@@ -70511,7 +70511,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.7772600736999999,
+            "resolved_to": 0.7694178027,
             "resolved": false
         },
         {
@@ -70749,7 +70749,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.4617510341078329,
+            "resolved_to": 0.509726949228,
             "resolved": false
         },
         {
@@ -70763,7 +70763,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.34733936149216715,
+            "resolved_to": 0.299363446372,
             "resolved": false
         },
         {
@@ -70777,7 +70777,7 @@
                 1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.10895285339216706,
+            "resolved_to": 0.12027305077199996,
             "resolved": false
         },
         {
@@ -70791,7 +70791,7 @@
                 -1
             ],
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.08195675100783287,
+            "resolved_to": 0.07063655362799998,
             "resolved": false
         },
         {
@@ -70805,7 +70805,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.4617510341078329,
+            "resolved_to": 0.509726949228,
             "resolved": false
         },
         {
@@ -70819,7 +70819,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.34733936149216715,
+            "resolved_to": 0.299363446372,
             "resolved": false
         },
         {
@@ -70833,7 +70833,7 @@
                 1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.10895285339216706,
+            "resolved_to": 0.12027305077199996,
             "resolved": false
         },
         {
@@ -70847,7 +70847,7 @@
                 -1
             ],
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.08195675100783287,
+            "resolved_to": 0.07063655362799998,
             "resolved": false
         },
         {
@@ -70861,7 +70861,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.4617510341078329,
+            "resolved_to": 0.509726949228,
             "resolved": false
         },
         {
@@ -70875,7 +70875,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.34733936149216715,
+            "resolved_to": 0.299363446372,
             "resolved": false
         },
         {
@@ -70889,7 +70889,7 @@
                 1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.10895285339216706,
+            "resolved_to": 0.12027305077199996,
             "resolved": false
         },
         {
@@ -70903,7 +70903,7 @@
                 -1
             ],
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.08195675100783287,
+            "resolved_to": 0.07063655362799998,
             "resolved": false
         },
         {
@@ -70917,7 +70917,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.4617510341078329,
+            "resolved_to": 0.509726949228,
             "resolved": false
         },
         {
@@ -70931,7 +70931,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.34733936149216715,
+            "resolved_to": 0.299363446372,
             "resolved": false
         },
         {
@@ -70945,7 +70945,7 @@
                 1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.10895285339216706,
+            "resolved_to": 0.12027305077199996,
             "resolved": false
         },
         {
@@ -70959,7 +70959,7 @@
                 -1
             ],
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.08195675100783287,
+            "resolved_to": 0.07063655362799998,
             "resolved": false
         },
         {
@@ -71415,7 +71415,7 @@
             "source": "metaculus",
             "direction": null,
             "resolution_date": "2024-07-28",
-            "resolved_to": 0.51,
+            "resolved_to": 0.52,
             "resolved": false
         },
         {
@@ -71423,7 +71423,7 @@
             "source": "metaculus",
             "direction": null,
             "resolution_date": "2024-08-20",
-            "resolved_to": 0.51,
+            "resolved_to": 0.52,
             "resolved": false
         },
         {
@@ -71431,7 +71431,7 @@
             "source": "metaculus",
             "direction": null,
             "resolution_date": "2024-10-19",
-            "resolved_to": 0.51,
+            "resolved_to": 0.52,
             "resolved": false
         },
         {
@@ -71439,7 +71439,7 @@
             "source": "metaculus",
             "direction": null,
             "resolution_date": "2025-01-17",
-            "resolved_to": 0.51,
+            "resolved_to": 0.52,
             "resolved": false
         },
         {
