@@ -1,3 +1,11 @@
+---
+license: cc-by-sa-4.0
+language:
+- en
+pretty_name: ForecastBench
+---
+[![ICLR 2025](https://img.shields.io/badge/ICLR-2025-D5FFC1?labelColor=2A363F)](https://iclr.cc/virtual/2025/poster/28507) [![arXiv:2409.19839](https://img.shields.io/badge/arXiv-2409.19839-272727?logo=arxiv&labelColor=B31B1B)](https://arxiv.org/abs/2409.19839)
+
 ## ForecastBench Datasets
 
 This repository contains the datasets produced by ForecastBench, a forecasting benchmark for
