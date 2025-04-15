@@ -34,7 +34,7 @@ Ranking,Organization,Model,"Dataset Score (N=1,754)",Market Score (resolved) (N=
 33,OpenAI,GPT-4 (scratchpad),0.19,0.169,0.091,0.142,0.18,0.166,[0.157 0.175],<0.001,15%,1%
 34,Qwen,Qwen1.5-110B-Chat (scratchpad),0.171,0.187,0.117,0.163,0.179,0.167,[0.157 0.176],<0.001,14%,0%
 35,Google,Gemini-1.5-Pro (zero shot),0.205,0.136,0.118,0.13,0.171,0.167,[0.155 0.18 ],<0.001,18%,15%
-36,Google,Gemini-1.5-Flash (scratchpad with freeze values),0.179,0.182,0.109,0.156,0.18,0.168,[0.154 0.181],<0.001,18%,0%
+36,Google,Gemini-1.5-Flash (scratchpad with freeze values),0.179,0.182,0.108,0.156,0.18,0.168,[0.154 0.181],<0.001,18%,0%
 37,Anthropic,Claude-2.1 (scratchpad),0.228,0.117,0.089,0.107,0.172,0.168,[0.158 0.178],<0.001,19%,24%
 38,Meta,Llama-3-70b-Chat-Hf (zero shot with freeze values),0.205,0.168,0.07,0.134,0.186,0.169,[0.156 0.183],<0.001,18%,0%
 39,Meta,Llama-3-70b-Chat-Hf (scratchpad with freeze values),0.208,0.156,0.083,0.131,0.182,0.17,[0.159 0.18 ],<0.001,16%,0%
@@ -65,7 +65,7 @@ Ranking,Organization,Model,"Dataset Score (N=1,754)",Market Score (resolved) (N=
 64,OpenAI,GPT-4o (zero shot),0.21,0.196,0.09,0.159,0.203,0.184,[0.171 0.198],<0.001,18%,3%
 65,Anthropic,Claude-3-Opus-20240229 (scratchpad with news with freeze values),0.203,0.198,0.111,0.168,0.2,0.185,[0.173 0.197],<0.001,16%,0%
 66,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 1),0.197,0.211,0.108,0.175,0.204,0.186,[0.174 0.198],<0.001,15%,8%
-67,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 2),0.2,0.202,0.116,0.172,0.201,0.186,[0.174 0.199],<0.001,16%,1%
+67,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 2),0.2,0.202,0.117,0.172,0.201,0.186,[0.174 0.199],<0.001,16%,1%
 68,Google,Gemini-1.5-Flash (superforecaster with news 2),0.222,0.161,0.133,0.151,0.191,0.186,[0.175 0.198],<0.001,17%,11%
 69,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 3),0.195,0.206,0.124,0.178,0.201,0.187,[0.175 0.199],<0.001,16%,5%
 70,Anthropic,Claude-3-Opus-20240229 (scratchpad with news),0.203,0.201,0.121,0.173,0.202,0.188,[0.177 0.199],<0.001,16%,0%
