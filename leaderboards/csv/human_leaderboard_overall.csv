@@ -4,7 +4,7 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=49),
 3,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with freeze values),0.138,0.153,0.026,0.108,0.145,0.123,[0.099 0.147],<0.001,30%,0%
 4,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with news with freeze values),0.142,0.155,0.039,0.114,0.148,0.128,[0.105 0.15 ],<0.001,28%,0%
 5,OpenAI,GPT-4-Turbo-2024-04-09 (zero shot with freeze values),0.162,0.136,0.022,0.096,0.149,0.129,[0.106 0.152],<0.001,31%,0%
-6,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot with freeze values),0.145,0.168,0.027,0.118,0.157,0.132,[0.103 0.16 ],<0.001,30%,0%
+6,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot with freeze values),0.145,0.168,0.027,0.118,0.157,0.132,[0.104 0.16 ],<0.001,30%,0%
 7,OpenAI,GPT-4 (zero shot with freeze values),0.167,0.136,0.026,0.097,0.152,0.132,[0.109 0.155],<0.001,30%,0%
 8,OpenAI,GPT-4o (scratchpad with news with freeze values),0.162,0.136,0.05,0.105,0.149,0.133,[0.113 0.154],<0.001,25%,0%
 9,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad),0.138,0.179,0.053,0.134,0.158,0.136,[0.114 0.159],<0.001,28%,0%
@@ -68,7 +68,7 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=49),
 67,Google,Gemini-1.5-Flash (scratchpad with freeze values),0.214,0.169,0.081,0.138,0.192,0.176,[0.153 0.199],<0.001,18%,0%
 68,Mistral AI,Mistral-Large-Latest (zero shot),0.173,0.205,0.136,0.18,0.189,0.177,[0.151 0.203],<0.001,20%,0%
 69,Meta,Llama-3-8b-Chat-Hf (scratchpad with freeze values),0.225,0.165,0.063,0.129,0.195,0.177,[0.162 0.192],<0.001,22%,0%
-70,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 2),0.174,0.21,0.128,0.181,0.192,0.177,[0.153 0.202],<0.001,22%,0%
+70,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 2),0.174,0.21,0.127,0.181,0.192,0.177,[0.153 0.202],<0.001,22%,0%
 71,Qwen,Qwen1.5-110B-Chat (superforecaster with news 1),0.203,0.2,0.072,0.154,0.201,0.179,[0.154 0.204],<0.001,22%,0%
 72,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (zero shot with freeze values),0.225,0.187,0.032,0.132,0.206,0.179,[0.149 0.209],<0.001,27%,0%
 73,Google,Gemini-1.5-Pro (zero shot),0.185,0.215,0.098,0.173,0.2,0.179,[0.151 0.207],<0.001,22%,0%
