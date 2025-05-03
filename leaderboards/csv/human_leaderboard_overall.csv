@@ -5,7 +5,7 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=50),
 4,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with news with freeze values),0.142,0.161,0.024,0.114,0.151,0.128,[0.105 0.151],<0.001,28%,0%
 5,OpenAI,GPT-4-Turbo-2024-04-09 (zero shot with freeze values),0.162,0.141,0.01,0.096,0.151,0.129,[0.106 0.152],<0.001,31%,0%
 6,Anthropic,Claude-3-5-Sonnet-20240620 (zero shot with freeze values),0.145,0.173,0.013,0.119,0.159,0.132,[0.104 0.16 ],<0.001,30%,0%
-7,OpenAI,GPT-4 (zero shot with freeze values),0.167,0.141,0.014,0.097,0.154,0.132,[0.109 0.156],<0.001,30%,0%
+7,OpenAI,GPT-4 (zero shot with freeze values),0.167,0.141,0.014,0.098,0.154,0.132,[0.109 0.156],<0.001,30%,0%
 8,OpenAI,GPT-4o (scratchpad with news with freeze values),0.162,0.142,0.037,0.106,0.152,0.134,[0.113 0.154],<0.001,25%,0%
 9,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad),0.138,0.182,0.042,0.134,0.16,0.136,[0.114 0.159],<0.001,28%,0%
 10,OpenAI,GPT-4o (scratchpad with freeze values),0.161,0.157,0.033,0.115,0.159,0.138,[0.116 0.159],<0.001,26%,0%
@@ -57,7 +57,7 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=50),
 56,OpenAI,GPT-4o (zero shot),0.197,0.181,0.063,0.141,0.189,0.169,[0.147 0.191],<0.001,21%,0%
 57,Qwen,Qwen1.5-110B-Chat (scratchpad with news),0.179,0.207,0.076,0.162,0.193,0.171,[0.151 0.191],<0.001,21%,0%
 58,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad),0.181,0.198,0.089,0.161,0.19,0.171,[0.153 0.189],<0.001,20%,0%
-59,Qwen,Qwen1.5-110B-Chat (scratchpad),0.183,0.208,0.069,0.161,0.196,0.172,[0.153 0.191],<0.001,18%,0%
+59,Qwen,Qwen1.5-110B-Chat (scratchpad),0.183,0.208,0.069,0.16,0.196,0.172,[0.153 0.191],<0.001,18%,0%
 60,Meta,Llama-3-8b-Chat-Hf (zero shot with freeze values),0.206,0.165,0.091,0.139,0.185,0.173,[0.147 0.198],<0.001,23%,0%
 61,Anthropic,Claude-3-Opus-20240229 (scratchpad with news with freeze values),0.183,0.204,0.082,0.163,0.194,0.173,[0.151 0.194],<0.001,23%,0%
 62,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 3),0.177,0.213,0.084,0.169,0.195,0.173,[0.15  0.195],<0.001,22%,12%
@@ -80,7 +80,7 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=50),
 79,OpenAI,GPT-4o (superforecaster with news 1),0.202,0.211,0.062,0.16,0.207,0.181,[0.154 0.208],<0.001,25%,0%
 80,Google,Gemini-1.5-Flash (scratchpad with news with freeze values),0.22,0.172,0.087,0.143,0.196,0.182,[0.158 0.205],<0.001,20%,0%
 81,OpenAI,GPT-4o (scratchpad with SECOND news),0.236,0.164,0.057,0.128,0.2,0.182,[0.162 0.201],<0.001,17%,7%
-82,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 1),0.212,0.188,0.091,0.155,0.2,0.183,[0.158 0.208],<0.001,21%,0%
+82,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 1),0.212,0.188,0.091,0.154,0.2,0.183,[0.158 0.208],<0.001,21%,0%
 83,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.237,0.173,0.054,0.132,0.205,0.184,[0.166 0.203],<0.001,15%,63%
 84,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.237,0.173,0.053,0.132,0.205,0.185,[0.166 0.203],<0.001,15%,63%
 85,ForecastBench,"LLM Crowd (gpt-4o, claude-3.5-sonnet, gemini-1.5-pro) with news",0.237,0.175,0.052,0.132,0.206,0.185,[0.166 0.204],<0.001,16%,63%
@@ -95,7 +95,7 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=50),
 94,Google,Gemini-1.5-Flash (scratchpad),0.214,0.2,0.093,0.164,0.207,0.189,[0.168 0.21 ],<0.001,17%,0%
 95,Google,Gemini-1.5-Flash (scratchpad with news),0.22,0.19,0.106,0.161,0.205,0.191,[0.168 0.213],<0.001,20%,0%
 96,Mistral AI,Mistral-Large-Latest (superforecaster with news 1),0.212,0.211,0.093,0.171,0.211,0.191,[0.166 0.217],<0.001,22%,0%
-97,Google,Gemini-1.5-Flash (zero shot),0.191,0.239,0.102,0.192,0.215,0.191,[0.163 0.219],<0.001,18%,0%
+97,Google,Gemini-1.5-Flash (zero shot),0.191,0.239,0.103,0.192,0.215,0.191,[0.163 0.219],<0.001,18%,0%
 98,Qwen,Qwen1.5-110B-Chat (superforecaster with news 3),0.212,0.22,0.082,0.173,0.216,0.192,[0.172 0.213],<0.001,21%,11%
 99,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (zero shot),0.225,0.195,0.1,0.162,0.21,0.194,[0.165 0.223],<0.001,21%,0%
 100,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 2),0.251,0.166,0.085,0.138,0.209,0.195,[0.17 0.22],<0.001,28%,9%
@@ -134,8 +134,8 @@ Ranking,Organization,Model,Dataset Score (N=422),Market Score (resolved) (N=50),
 133,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 3),0.266,0.249,0.143,0.213,0.257,0.239,[0.22  0.258],<0.001,18%,37%
 134,Meta,Llama-2-70b-Chat-Hf (zero shot),0.233,0.327,0.116,0.254,0.28,0.244,[0.216 0.272],<0.001,23%,0%
 135,Anthropic,Claude-3-Haiku-20240307 (superforecaster with news 1),0.286,0.303,0.102,0.234,0.294,0.26,[0.233 0.286],<0.001,22%,0%
-136,OpenAI,GPT-3.5-Turbo-0125 (zero shot with freeze values),0.422,0.163,0.066,0.13,0.293,0.276,[0.247 0.305],<0.001,28%,0%
-137,ForecastBench,Always 0,0.329,0.28,0.208,0.255,0.305,0.292,[0.241 0.344],<0.001,42%,0%
+136,OpenAI,GPT-3.5-Turbo-0125 (zero shot with freeze values),0.422,0.163,0.067,0.13,0.293,0.276,[0.247 0.305],<0.001,28%,0%
+137,ForecastBench,Always 0,0.329,0.28,0.207,0.255,0.305,0.292,[0.241 0.344],<0.001,42%,0%
 138,ForecastBench,Random Uniform,0.357,0.296,0.205,0.265,0.326,0.311,[0.274 0.347],<0.001,22%,0%
 139,OpenAI,GPT-3.5-Turbo-0125 (zero shot),0.422,0.253,0.178,0.227,0.337,0.325,[0.294 0.355],<0.001,20%,0%
 140,ForecastBench,Always 1,0.671,0.72,0.558,0.664,0.695,0.668,[0.613 0.722],<0.001,26%,0%
