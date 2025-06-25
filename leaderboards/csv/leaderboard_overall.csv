@@ -1,8 +1,8 @@
 Ranking,Organization,Model,"Dataset Score (N=5,492)",Market Score (resolved) (N=527),Market Score (unresolved) (N=360),Market Score (overall) (N=887),"Overall Resolved Score (N=6,019)","Overall Score (N=6,379)",Overall Score 95% CI,Pairwise p-value comparing to No. 1 (bootstrapped),Pct. more accurate than No. 1,Pct. Imputed
 1,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with freeze values),0.168,0.115,0.032,0.081,0.142,0.125,[0.119 0.131],,0%,0%
-2,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.172,0.11,0.043,0.083,0.141,0.127,[0.121 0.133],0.193,39%,0%
+2,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.172,0.11,0.043,0.083,0.141,0.127,[0.121 0.133],0.194,39%,0%
 3,OpenAI,GPT-4o (scratchpad with freeze values),0.186,0.1,0.032,0.073,0.143,0.129,[0.124 0.135],<0.05,39%,0%
-4,Google,Gemini-1.5-Pro (scratchpad with freeze values),0.161,0.137,0.067,0.109,0.149,0.135,[0.129 0.141],<0.001,38%,0%
+4,Google,Gemini-1.5-Pro (scratchpad with freeze values),0.161,0.137,0.067,0.109,0.149,0.135,[0.129 0.141],<0.01,38%,0%
 5,OpenAI,GPT-4o (scratchpad with news with freeze values),0.19,0.119,0.04,0.087,0.154,0.138,[0.132 0.145],<0.001,36%,0%
 6,Google,Gemini-1.5-Pro (scratchpad with news with freeze values),0.166,0.141,0.076,0.115,0.154,0.14,[0.135 0.146],<0.001,38%,0%
 7,Anthropic,Claude-3-Opus-20240229 (zero shot with freeze values),0.186,0.132,0.045,0.097,0.159,0.141,[0.135 0.148],<0.001,40%,0%
@@ -75,7 +75,7 @@ Ranking,Organization,Model,"Dataset Score (N=5,492)",Market Score (resolved) (N=
 74,OpenAI,GPT-4 (zero shot),0.222,0.191,0.088,0.149,0.207,0.186,[0.18  0.191],<0.001,28%,0%
 75,Meta,Llama-3-70b-Chat-Hf (scratchpad),0.221,0.191,0.093,0.151,0.206,0.186,[0.181 0.191],<0.001,25%,0%
 76,Qwen,Qwen1.5-110B-Chat (zero shot),0.226,0.182,0.102,0.15,0.204,0.188,[0.182 0.194],<0.001,29%,0%
-77,Mistral AI,Mistral-Large-Latest (zero shot),0.208,0.2,0.125,0.169,0.204,0.189,[0.181 0.196],<0.001,30%,0%
+77,Mistral AI,Mistral-Large-Latest (zero shot),0.208,0.2,0.125,0.17,0.204,0.189,[0.181 0.196],<0.001,30%,0%
 78,Google,Gemini-1.5-Flash (scratchpad with news),0.223,0.188,0.108,0.156,0.206,0.19,[0.183 0.196],<0.001,29%,0%
 79,Google,Gemini-1.5-Flash (superforecaster with news 2),0.246,0.151,0.109,0.134,0.198,0.19,[0.184 0.197],<0.001,28%,6%
 80,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 3),0.216,0.204,0.104,0.164,0.21,0.19,[0.184 0.196],<0.001,29%,8%
