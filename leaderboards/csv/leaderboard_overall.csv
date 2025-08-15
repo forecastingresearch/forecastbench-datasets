@@ -1,7 +1,7 @@
 Ranking,Organization,Model,"Dataset Score (N=6,862)",Market Score (resolved) (N=536),Market Score (unresolved) (N=351),Market Score (overall) (N=887),"Overall Resolved Score (N=7,398)","Overall Score (N=7,749)",Overall Score 95% CI,Pairwise p-value comparing to No. 1 (bootstrapped),Pct. more accurate than No. 1,Pct. Imputed
 1,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with freeze values),0.172,0.113,0.033,0.082,0.143,0.127,[0.121 0.133],,0%,0%
-2,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.175,0.111,0.04,0.083,0.143,0.129,[0.123 0.135],0.214,39%,0%
-3,OpenAI,GPT-4o (scratchpad with freeze values),0.186,0.098,0.033,0.073,0.142,0.129,[0.124 0.135],0.120,39%,0%
+2,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.175,0.111,0.04,0.083,0.143,0.129,[0.123 0.135],0.226,39%,0%
+3,OpenAI,GPT-4o (scratchpad with freeze values),0.186,0.098,0.033,0.073,0.142,0.129,[0.124 0.135],0.113,39%,0%
 4,Google,Gemini-1.5-Pro (scratchpad with freeze values),0.163,0.136,0.066,0.109,0.15,0.136,[0.13  0.142],<0.01,40%,0%
 5,OpenAI,GPT-4o (scratchpad with news with freeze values),0.193,0.117,0.041,0.087,0.155,0.14,[0.134 0.146],<0.001,36%,0%
 6,Google,Gemini-1.5-Pro (scratchpad with news with freeze values),0.169,0.14,0.076,0.115,0.154,0.142,[0.136 0.147],<0.001,39%,0%
@@ -101,7 +101,7 @@ Ranking,Organization,Model,"Dataset Score (N=6,862)",Market Score (resolved) (N=
 100,OpenAI,GPT-4-Turbo-2024-04-09 (superforecaster with news 2),0.251,0.199,0.108,0.163,0.225,0.207,[0.199 0.214],<0.001,31%,11%
 101,Mistral AI,Mixtral-8x7B-Instruct-V0.1 (superforecaster with news 3),0.278,0.16,0.099,0.136,0.219,0.207,[0.201 0.213],<0.001,27%,7%
 102,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 2),0.249,0.209,0.104,0.167,0.229,0.208,[0.202 0.214],<0.001,27%,3%
-103,Mistral AI,Mistral-Large-Latest (scratchpad with news with freeze values),0.256,0.212,0.099,0.168,0.234,0.212,[0.205 0.218],<0.001,24%,0%
+103,Mistral AI,Mistral-Large-Latest (scratchpad with news with freeze values),0.256,0.212,0.099,0.167,0.234,0.212,[0.205 0.218],<0.001,24%,0%
 104,Mistral AI,Mistral-Large-Latest (superforecaster with news 1),0.251,0.213,0.123,0.177,0.232,0.214,[0.206 0.221],<0.001,29%,41%
 105,Mistral AI,Mistral-Large-Latest (scratchpad with news),0.256,0.217,0.112,0.176,0.237,0.216,[0.21  0.222],<0.001,24%,0%
 106,Mistral AI,Mistral-Large-Latest (superforecaster with news 2),0.243,0.237,0.122,0.192,0.24,0.217,[0.209 0.225],<0.001,29%,16%
