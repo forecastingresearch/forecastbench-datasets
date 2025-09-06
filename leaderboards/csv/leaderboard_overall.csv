@@ -1,7 +1,7 @@
 Ranking,Organization,Model,"Dataset Score (N=6,737)",Market Score (resolved) (N=536),Market Score (unresolved) (N=351),Market Score (overall) (N=887),"Overall Resolved Score (N=7,273)","Overall Score (N=7,624)",Overall Score 95% CI,Pairwise p-value comparing to No. 1 (bootstrapped),Pct. more accurate than No. 1,Pct. Imputed
 1,Anthropic,Claude-3-5-Sonnet-20240620 (scratchpad with freeze values),0.17,0.113,0.034,0.082,0.142,0.126,[0.12  0.132],,0%,0%
-2,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.174,0.111,0.04,0.083,0.142,0.128,[0.122 0.134],0.188,38%,0%
-3,OpenAI,GPT-4o (scratchpad with freeze values),0.185,0.098,0.034,0.073,0.142,0.129,[0.123 0.134],0.120,39%,0%
+2,OpenAI,GPT-4-Turbo-2024-04-09 (scratchpad with freeze values),0.174,0.111,0.04,0.083,0.142,0.128,[0.122 0.134],0.187,38%,0%
+3,OpenAI,GPT-4o (scratchpad with freeze values),0.185,0.098,0.034,0.073,0.142,0.129,[0.123 0.134],0.118,39%,0%
 4,Google,Gemini-1.5-Pro (scratchpad with freeze values),0.162,0.136,0.067,0.109,0.149,0.135,[0.13  0.141],<0.01,40%,0%
 5,OpenAI,GPT-4o (scratchpad with news with freeze values),0.192,0.117,0.041,0.087,0.155,0.14,[0.134 0.146],<0.001,36%,0%
 6,Google,Gemini-1.5-Pro (scratchpad with news with freeze values),0.167,0.14,0.077,0.115,0.153,0.141,[0.135 0.146],<0.001,39%,0%
@@ -82,7 +82,7 @@ Ranking,Organization,Model,"Dataset Score (N=6,737)",Market Score (resolved) (N=
 81,Google,Gemini-1.5-Flash (superforecaster with news 2),0.248,0.151,0.11,0.135,0.2,0.191,[0.185 0.198],<0.001,28%,6%
 82,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 3),0.22,0.202,0.106,0.164,0.211,0.192,[0.186 0.198],<0.001,29%,9%
 83,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (superforecaster with news 1),0.235,0.172,0.115,0.149,0.204,0.192,[0.185 0.199],<0.001,31%,31%
-84,Anthropic,Claude-3-Opus-20240229 (scratchpad with news),0.225,0.199,0.103,0.161,0.212,0.193,[0.187 0.199],<0.001,26%,0%
+84,Anthropic,Claude-3-Opus-20240229 (scratchpad with news),0.225,0.199,0.104,0.161,0.212,0.193,[0.187 0.199],<0.001,26%,0%
 85,Anthropic,Claude-3-5-Sonnet-20240620 (superforecaster with news 2),0.224,0.201,0.105,0.163,0.213,0.194,[0.187 0.201],<0.001,29%,1%
 86,Mistral AI,Mixtral-8x22B-Instruct-V0.1 (scratchpad with news),0.233,0.194,0.099,0.156,0.213,0.195,[0.189 0.2  ],<0.001,28%,0%
 87,Anthropic,Claude-3-Opus-20240229 (superforecaster with news 2),0.23,0.194,0.109,0.16,0.212,0.195,[0.188 0.202],<0.001,28%,1%
