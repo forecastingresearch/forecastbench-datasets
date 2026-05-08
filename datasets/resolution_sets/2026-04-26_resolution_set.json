@@ -1,0 +1,3086 @@
+{
+    "forecast_due_date": "2026-04-26",
+    "question_set": "2026-04-26-llm.json",
+    "resolutions": [
+        {
+            "id": "BAMLC0A3CAEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC4A0C710YEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLEMHBHYCRPIOAS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A0HYM2",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A0HYM2EY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A1HYBBEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A3HYC",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CBBTCUSD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXCHUS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXUSEU",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXUSUK",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS30",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS6MO",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DJIA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DPCREDIT",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DPSACBW027SBOG",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DTB3",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ECBESTRVOLWGTTRMDMNRT",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "EFFR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "GVZCLS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "H41RESPPALDKNWW",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "IHLIDXUS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "NASDAQ100",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "NIKKEI225",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "OBFR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "OBMMIFHA30YF",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "OBMMIVA30YF",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RESPPLLOPNWW",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RPONTSYD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RRPONTSYD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SOFR180DAYAVG",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "T10Y2Y",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "T10YIE",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "TLAACBW027SBOG",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "TREAST",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "VIXCLS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WALCL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WLCFLL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WLODLL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WM1NS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WM2NS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WRBWFRBL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WSHOMCB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "1401",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0166,
+            "resolved": false
+        },
+        {
+            "id": "1432",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1321,
+            "resolved": false
+        },
+        {
+            "id": "1611",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.12890000000000001,
+            "resolved": false
+        },
+        {
+            "id": "1612",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5677,
+            "resolved": false
+        },
+        {
+            "id": "1613",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.662,
+            "resolved": false
+        },
+        {
+            "id": "1614",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.3249,
+            "resolved": false
+        },
+        {
+            "id": "1615",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.48260000000000003,
+            "resolved": false
+        },
+        {
+            "id": "1617",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.375,
+            "resolved": false
+        },
+        {
+            "id": "1644",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.048400000000000006,
+            "resolved": false
+        },
+        {
+            "id": "1645",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.3151,
+            "resolved": false
+        },
+        {
+            "id": "1653",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.015700000000000002,
+            "resolved": false
+        },
+        {
+            "id": "1654",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0053,
+            "resolved": false
+        },
+        {
+            "id": "1659",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1763,
+            "resolved": false
+        },
+        {
+            "id": "1661",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1246,
+            "resolved": false
+        },
+        {
+            "id": "1677",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7656000000000001,
+            "resolved": false
+        },
+        {
+            "id": "1678",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.22460000000000002,
+            "resolved": false
+        },
+        {
+            "id": "1679",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.07390000000000001,
+            "resolved": false
+        },
+        {
+            "id": "1698",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.031,
+            "resolved": false
+        },
+        {
+            "id": "1699",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0143,
+            "resolved": false
+        },
+        {
+            "id": "1700",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7161000000000001,
+            "resolved": false
+        },
+        {
+            "id": "1701",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.052500000000000005,
+            "resolved": false
+        },
+        {
+            "id": "1702",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5443,
+            "resolved": false
+        },
+        {
+            "id": "1703",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0015,
+            "resolved": false
+        },
+        {
+            "id": "1704",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0844,
+            "resolved": false
+        },
+        {
+            "id": "1705",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0038,
+            "resolved": false
+        },
+        {
+            "id": "1706",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0273,
+            "resolved": false
+        },
+        {
+            "id": "1707",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1613,
+            "resolved": false
+        },
+        {
+            "id": "1717",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.24980000000000002,
+            "resolved": false
+        },
+        {
+            "id": "1725",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9825,
+            "resolved": false
+        },
+        {
+            "id": "1728",
+            "source": "infer",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.48560000000000003,
+            "resolved": false
+        },
+        {
+            "id": "0CcIFySHc1Yjv6zVLn2K",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2110973857,
+            "resolved": false
+        },
+        {
+            "id": "0q0RRPtScc",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0ro1dbilJ4pRABnZPNE3",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9025696429000001,
+            "resolved": false
+        },
+        {
+            "id": "0sEPlhcgPU",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6804223404,
+            "resolved": false
+        },
+        {
+            "id": "1Ip8b57AMVIsxvD0VnjL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9621162865,
+            "resolved": false
+        },
+        {
+            "id": "298PNt22sn",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.10565319050000001,
+            "resolved": false
+        },
+        {
+            "id": "2ItEg96spt",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2430141626,
+            "resolved": false
+        },
+        {
+            "id": "5lCp68nI9Q",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2078024068,
+            "resolved": false
+        },
+        {
+            "id": "6uQmk7jqqcG4gUvPkkTr",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8p5sUg2c5s",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0109629348,
+            "resolved": false
+        },
+        {
+            "id": "8poB8YIlb9QOlkRacyC7",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6914169351,
+            "resolved": false
+        },
+        {
+            "id": "9me3qh2IBIDKFrp0WWP8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0307139388,
+            "resolved": false
+        },
+        {
+            "id": "AIpzy9ZIp2",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1646538893,
+            "resolved": false
+        },
+        {
+            "id": "BoijN4o7uHxuA32CTuft",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7774635809,
+            "resolved": false
+        },
+        {
+            "id": "CIPdCuL2Es",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1960892769,
+            "resolved": false
+        },
+        {
+            "id": "CqptuuhR5c",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CqssL2NltN",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.35388213760000004,
+            "resolved": false
+        },
+        {
+            "id": "EP58QE55q6",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.99,
+            "resolved": false
+        },
+        {
+            "id": "EzZLpOlLCg",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.20937192500000001,
+            "resolved": false
+        },
+        {
+            "id": "FLtLafVPS7hcEnZoZFOj",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2489710953,
+            "resolved": false
+        },
+        {
+            "id": "GUDfwZKVbWvmo95OXbTo",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1796065113,
+            "resolved": false
+        },
+        {
+            "id": "Gk0rSk3vqy1RvqQn9smz",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7641039192,
+            "resolved": false
+        },
+        {
+            "id": "I8cOuPCQ6l",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2312638071,
+            "resolved": false
+        },
+        {
+            "id": "IIgUPUpq6E",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "Jys46j42B0WWgM4ENxEC",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9692874064,
+            "resolved": false
+        },
+        {
+            "id": "NHOdIsbno3EUF8fXm3vx",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.19485068530000002,
+            "resolved": false
+        },
+        {
+            "id": "NqZNZgILEL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.44,
+            "resolved": false
+        },
+        {
+            "id": "O6R80dnggu",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0157895743,
+            "resolved": false
+        },
+        {
+            "id": "OAL8q0Azzl",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5823136152,
+            "resolved": false
+        },
+        {
+            "id": "OChyEY9M62agVUrULP6x",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5582448098,
+            "resolved": false
+        },
+        {
+            "id": "OU2hqNZPu0",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8596614332,
+            "resolved": false
+        },
+        {
+            "id": "OhuZtq6n6R",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0438609625,
+            "resolved": false
+        },
+        {
+            "id": "OoV1VLIGNMqu9mywrvii",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6884915346,
+            "resolved": false
+        },
+        {
+            "id": "Oungh6yUUg",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0127113699,
+            "resolved": false
+        },
+        {
+            "id": "PHBrieoPxIS6nmTIbiiL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7310758806000001,
+            "resolved": false
+        },
+        {
+            "id": "PdTdGbYMCaUFvHZydFNM",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.866299872,
+            "resolved": false
+        },
+        {
+            "id": "Q2Ilz5Zyug",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2518945408,
+            "resolved": false
+        },
+        {
+            "id": "QUlUpzqyNh",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-04-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "R5VNv4bJN8ssGsfFzY5U",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6000000000000001,
+            "resolved": false
+        },
+        {
+            "id": "RRsc6OSLsL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2012335909,
+            "resolved": false
+        },
+        {
+            "id": "RcRy5POOpq",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-04-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "SVNm1HHV82DVFNDNy4AG",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2408756859,
+            "resolved": false
+        },
+        {
+            "id": "SnOyRhNQZu",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.4261018401,
+            "resolved": false
+        },
+        {
+            "id": "TIwLnAgLSHdYlCj1lynh",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0742550495,
+            "resolved": false
+        },
+        {
+            "id": "TeB8Z7GvhUdx2tB48bbO",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0056341865,
+            "resolved": false
+        },
+        {
+            "id": "U5lqZZCzc9",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0664850929,
+            "resolved": false
+        },
+        {
+            "id": "UhJko4o4J2zoiQCyg9fJ",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7033054686,
+            "resolved": false
+        },
+        {
+            "id": "XOJ8Tfrg8s2iqPFwauO8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1325079582,
+            "resolved": false
+        },
+        {
+            "id": "Y97JOjLQKqd63dARJibz",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2891691567,
+            "resolved": false
+        },
+        {
+            "id": "YthnVZZZeN7cWtfjdCtE",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7138069501000001,
+            "resolved": false
+        },
+        {
+            "id": "ZQvUHx5d2tphDz1tJSMM",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2236477442,
+            "resolved": false
+        },
+        {
+            "id": "ZqrdRKgvg3d2B65uEWAx",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2957173705,
+            "resolved": false
+        },
+        {
+            "id": "g2lE0I6Etq",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0743621242,
+            "resolved": false
+        },
+        {
+            "id": "gII9PpRSsR",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.43838372140000004,
+            "resolved": false
+        },
+        {
+            "id": "ghI9lZO0CP",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.325007835,
+            "resolved": false
+        },
+        {
+            "id": "hEZcA8l59I",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0198954758,
+            "resolved": false
+        },
+        {
+            "id": "hiqwmkt2f5MbEtmVdkv6",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2151190141,
+            "resolved": false
+        },
+        {
+            "id": "hsdH6Q58QuIpXbueCGlf",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9607946604000001,
+            "resolved": false
+        },
+        {
+            "id": "i0gxu4hz50xefKXiKCI8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.3454620302,
+            "resolved": false
+        },
+        {
+            "id": "i7MP3oGFn6nUnrHe9aG5",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0590836891,
+            "resolved": false
+        },
+        {
+            "id": "jtZoCx0aV7i5RSEyiwe8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7359945990000001,
+            "resolved": false
+        },
+        {
+            "id": "k3SOdZZ2KH9rIFjIxCQk",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2257,
+            "resolved": false
+        },
+        {
+            "id": "kMgcyUxJQi0S3pcwUqbb",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.4266388721,
+            "resolved": false
+        },
+        {
+            "id": "l6O2tdELtZ",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.99,
+            "resolved": false
+        },
+        {
+            "id": "lyIZhZLguu",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.99,
+            "resolved": false
+        },
+        {
+            "id": "me2zlzyUDP4b8FYxHuee",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1836798541,
+            "resolved": false
+        },
+        {
+            "id": "n0SOsuUccS",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8883010435,
+            "resolved": false
+        },
+        {
+            "id": "nPhdNdqI6S",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2975021578,
+            "resolved": false
+        },
+        {
+            "id": "nR9hLyUqzn",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1943437607,
+            "resolved": false
+        },
+        {
+            "id": "rM15ip6TmPMB54EUUhKy",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8016404481,
+            "resolved": false
+        },
+        {
+            "id": "y2ZIUOq0ZC",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-04-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "yhCRLptzUL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.049589894600000003,
+            "resolved": false
+        },
+        {
+            "id": "yq9hpgsgsU",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.36429189430000003,
+            "resolved": false
+        },
+        {
+            "id": "zOSd5nE56c",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8218049306,
+            "resolved": false
+        },
+        {
+            "id": "11045",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.62,
+            "resolved": false
+        },
+        {
+            "id": "11127",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.65,
+            "resolved": false
+        },
+        {
+            "id": "12298",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.39,
+            "resolved": false
+        },
+        {
+            "id": "13482",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.52,
+            "resolved": false
+        },
+        {
+            "id": "1385",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.4,
+            "resolved": false
+        },
+        {
+            "id": "1539",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.22,
+            "resolved": false
+        },
+        {
+            "id": "15489",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.34,
+            "resolved": false
+        },
+        {
+            "id": "15492",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.41000000000000003,
+            "resolved": false
+        },
+        {
+            "id": "16179",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.98,
+            "resolved": false
+        },
+        {
+            "id": "1629",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.01,
+            "resolved": false
+        },
+        {
+            "id": "18266",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.11,
+            "resolved": false
+        },
+        {
+            "id": "20460",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9500000000000001,
+            "resolved": false
+        },
+        {
+            "id": "20466",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.71,
+            "resolved": false
+        },
+        {
+            "id": "20588",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.18,
+            "resolved": false
+        },
+        {
+            "id": "20709",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1,
+            "resolved": false
+        },
+        {
+            "id": "22310",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5,
+            "resolved": false
+        },
+        {
+            "id": "24819",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.26,
+            "resolved": false
+        },
+        {
+            "id": "34504",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9,
+            "resolved": false
+        },
+        {
+            "id": "3617",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.32,
+            "resolved": false
+        },
+        {
+            "id": "36871",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6000000000000001,
+            "resolved": false
+        },
+        {
+            "id": "37117",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.797,
+            "resolved": false
+        },
+        {
+            "id": "37523",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.38,
+            "resolved": false
+        },
+        {
+            "id": "37700",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.03,
+            "resolved": false
+        },
+        {
+            "id": "38768",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.35000000000000003,
+            "resolved": false
+        },
+        {
+            "id": "38940",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.098,
+            "resolved": false
+        },
+        {
+            "id": "38950",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.488,
+            "resolved": false
+        },
+        {
+            "id": "39128",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.7000000000000001,
+            "resolved": false
+        },
+        {
+            "id": "39142",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.02,
+            "resolved": false
+        },
+        {
+            "id": "39734",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8,
+            "resolved": false
+        },
+        {
+            "id": "40281",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.015,
+            "resolved": false
+        },
+        {
+            "id": "40417",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-04-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "40695",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.01,
+            "resolved": false
+        },
+        {
+            "id": "40701",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5,
+            "resolved": false
+        },
+        {
+            "id": "40730",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8,
+            "resolved": false
+        },
+        {
+            "id": "40938",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.4,
+            "resolved": false
+        },
+        {
+            "id": "40965",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.68,
+            "resolved": false
+        },
+        {
+            "id": "41087",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.14,
+            "resolved": false
+        },
+        {
+            "id": "41090",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.13,
+            "resolved": false
+        },
+        {
+            "id": "41140",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8,
+            "resolved": false
+        },
+        {
+            "id": "41141",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.4,
+            "resolved": false
+        },
+        {
+            "id": "41142",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.34,
+            "resolved": false
+        },
+        {
+            "id": "41144",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.25,
+            "resolved": false
+        },
+        {
+            "id": "41154",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5,
+            "resolved": false
+        },
+        {
+            "id": "41168",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.586,
+            "resolved": false
+        },
+        {
+            "id": "41206",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.32,
+            "resolved": false
+        },
+        {
+            "id": "41214",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.242,
+            "resolved": false
+        },
+        {
+            "id": "41364",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.14,
+            "resolved": false
+        },
+        {
+            "id": "41480",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5,
+            "resolved": false
+        },
+        {
+            "id": "41514",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "41526",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.55,
+            "resolved": false
+        },
+        {
+            "id": "41686",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.86,
+            "resolved": false
+        },
+        {
+            "id": "41804",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.21,
+            "resolved": false
+        },
+        {
+            "id": "41805",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.32,
+            "resolved": false
+        },
+        {
+            "id": "41869",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "42485",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.065,
+            "resolved": false
+        },
+        {
+            "id": "42490",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-04-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "42517",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.75,
+            "resolved": false
+        },
+        {
+            "id": "42630",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.519,
+            "resolved": false
+        },
+        {
+            "id": "42827",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5,
+            "resolved": false
+        },
+        {
+            "id": "4290",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.05,
+            "resolved": false
+        },
+        {
+            "id": "43089",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.4,
+            "resolved": false
+        },
+        {
+            "id": "43091",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.45,
+            "resolved": false
+        },
+        {
+            "id": "6197",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.75,
+            "resolved": false
+        },
+        {
+            "id": "7340",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2,
+            "resolved": false
+        },
+        {
+            "id": "7819",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.32,
+            "resolved": false
+        },
+        {
+            "id": "7861",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.75,
+            "resolved": false
+        },
+        {
+            "id": "7872",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1,
+            "resolved": false
+        },
+        {
+            "id": "7994",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8,
+            "resolved": false
+        },
+        {
+            "id": "8049",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.45,
+            "resolved": false
+        },
+        {
+            "id": "8602",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.53,
+            "resolved": false
+        },
+        {
+            "id": "8670",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9500000000000001,
+            "resolved": false
+        },
+        {
+            "id": "8725",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.331,
+            "resolved": false
+        },
+        {
+            "id": "0x069fef06f8b32dee6a22fab6189249dc83582f22cb737a85225b114770d7da05",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.997,
+            "resolved": false
+        },
+        {
+            "id": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.605,
+            "resolved": false
+        },
+        {
+            "id": "0x0f8a16fa8809127bc86712e24cea9314cf1eb000c69150ff01b9f10f166903f5",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.03,
+            "resolved": false
+        },
+        {
+            "id": "0x115374e9cb26f7c375f35cdfec08167024dbfc5a20f339806d81236ed25ab781",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.5750000000000001,
+            "resolved": false
+        },
+        {
+            "id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.655,
+            "resolved": false
+        },
+        {
+            "id": "0x12609f33bc603cb234db2af1d502d143587b697bdc479ddb9344401dbf987914",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.868,
+            "resolved": false
+        },
+        {
+            "id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.17450000000000002,
+            "resolved": false
+        },
+        {
+            "id": "0x1462c484c487defffb893db05f136710d51e3879b838fd77d4ad85fa7137d6df",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x1b1a75d6305f5edee255b3f368cca945bde401fea4b2a7e34f2fcca3b3e56cf0",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.905,
+            "resolved": false
+        },
+        {
+            "id": "0x1c60f9adb1d786b6fe78d63fd9f82dbb293fa06241532fb5ba43f8d8411cde1e",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.505,
+            "resolved": false
+        },
+        {
+            "id": "0x1e722ca9fef1bcde22157eb0be3bfa5e6f5a791c986928a3a38d860e40a31bf7",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.98,
+            "resolved": false
+        },
+        {
+            "id": "0x2059fed5ad3788f380ce344482bb5b36b37348ec24c4c5ce000c7c54f08632ec",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.155,
+            "resolved": false
+        },
+        {
+            "id": "0x2277d2b804aa015d014cc894b52e1a87b869229e8689fd6d4071a0b94e3a0dc2",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.915,
+            "resolved": false
+        },
+        {
+            "id": "0x2baed9d4160afbaf16209d5e2d309393904cd4815b1db17c27630bb34637cd13",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.1405,
+            "resolved": false
+        },
+        {
+            "id": "0x2bf6f2697e123f9bfb2c8788ed35741c67159ed19374886e6e7cb3f35e60f855",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.485,
+            "resolved": false
+        },
+        {
+            "id": "0x35d8c42a467d4e485ffba50c5d2d984ed0793f4935319ca923b494798051c8ef",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-04-30",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x394399d0391adb7f8acd4829f335eb95b350b416bfca915e17b958c7204028e4",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6950000000000001,
+            "resolved": false
+        },
+        {
+            "id": "0x48874462b88af831a4d90479286c6c1d4cd683a6b119d926f85ac66549385b21",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.17,
+            "resolved": false
+        },
+        {
+            "id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.28500000000000003,
+            "resolved": false
+        },
+        {
+            "id": "0x57c1e8de9d359a76055fe1be95e46a1e72d0537811dcc2ccf070cdfa73d8ba33",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-01",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x6123b5cc75c38ba9783f6c8ea260107b546c7d3454a8f9b5280c9921cc39f3d9",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.075,
+            "resolved": false
+        },
+        {
+            "id": "0x6bdcc928ea45c82db3fec2bcac7d7a3fee998686788086195925d0edc291bfd3",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.004,
+            "resolved": false
+        },
+        {
+            "id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.245,
+            "resolved": false
+        },
+        {
+            "id": "0x6d6fd5d251ce4cf80ec381a0fb7fcccefff4859ba7be92eddb1f7e6b1ef48595",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.8675,
+            "resolved": false
+        },
+        {
+            "id": "0x6e11cccf8834acee6d4c03a019141ba6f91aa001cb8f96dd69e7f67e2be6739f",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.008,
+            "resolved": false
+        },
+        {
+            "id": "0x727ef88fa8c351bc39256088cd6169b4c38a1fa41c7f7382d60880de09f2f829",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.185,
+            "resolved": false
+        },
+        {
+            "id": "0x742fec2bf8157b780b2cf6b188076b9bd830122e665c216bc0f1e2d77e21cd23",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-01",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.165,
+            "resolved": false
+        },
+        {
+            "id": "0x781a06aa5779f97724b75ed8128aaf72c4a8955c893a6fefdc0efd7cb001c513",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.395,
+            "resolved": false
+        },
+        {
+            "id": "0x78547b8ae17c8a584116cc36c30ebbdab2591de259d35868958d806f4c3c211d",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.051500000000000004,
+            "resolved": false
+        },
+        {
+            "id": "0x7906cde04153c8c31e52ad747596c56b0ea7ce224a07bc604ea65206fb53a2c5",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.985,
+            "resolved": false
+        },
+        {
+            "id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.505,
+            "resolved": false
+        },
+        {
+            "id": "0x7db131f56117dd3883cb0f6ce289af6176a0f322f943cb4f226122a46619544b",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9675,
+            "resolved": false
+        },
+        {
+            "id": "0x8c51f57113fa7c705af2a3b2450a42cf0d0192a49b16db4235fb7d08738a9b07",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.005,
+            "resolved": false
+        },
+        {
+            "id": "0x8e22889f3cf294f483a518d61ea2aad40ee79f8be39e7a2da1858daa7b4c8e68",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.244,
+            "resolved": false
+        },
+        {
+            "id": "0x91b6939a95e9626fe3598483d37f2ad80fccac3d8a7a2ac8c9a4d9a4007661df",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.215,
+            "resolved": false
+        },
+        {
+            "id": "0x92b502c683e2cc8cad23d670ad5e1d6efbf51fdc70310f8594e4c2ffc663bed4",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.42,
+            "resolved": false
+        },
+        {
+            "id": "0x930c1ae0fdb23f71821c92e5dea1e6bd2b30b4d28ff5112a659c9f8b3871a1a5",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.0015,
+            "resolved": false
+        },
+        {
+            "id": "0x93709d7acb31d264541c3447e38c1772ea113f096423cf24279eebd44856c9b9",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.715,
+            "resolved": false
+        },
+        {
+            "id": "0x938e6a0a011f9534ffd2d86c65dde3aeb7c66ad06cee29ead70b832179c3b6de",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.655,
+            "resolved": false
+        },
+        {
+            "id": "0x939bf902c7ba884c1310f19b6be20576f823952460f6367c9f10c08cd449ee60",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-05",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x947dd80143339be3a01453de9c1e40bae72688c56622796521805823eb35cb03",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.29,
+            "resolved": false
+        },
+        {
+            "id": "0x977b7d56cdeaead422cc48017dade80ec07a60036b19f1c5ab57ad48f52768e5",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.025,
+            "resolved": false
+        },
+        {
+            "id": "0xa0965c6e18be3e0893f9a3f69cd77e8d998e817dfab4ad7c5388b5f718d1efeb",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.87,
+            "resolved": false
+        },
+        {
+            "id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.295,
+            "resolved": false
+        },
+        {
+            "id": "0xb6d6873e4e1e640f48b9c386f612857a2635e734c03cceecd0bb2c061ed15e6d",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.13,
+            "resolved": false
+        },
+        {
+            "id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.49250000000000005,
+            "resolved": false
+        },
+        {
+            "id": "0xbd0c2d5f58650e031aba69b54529cf1e85f1f73622530b53b0d261063627c64d",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.084,
+            "resolved": false
+        },
+        {
+            "id": "0xbf9bb424df116aa45f95ac5df4a714ff59bba098ebdd457e3ffdf7fbcf075e31",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.79,
+            "resolved": false
+        },
+        {
+            "id": "0xc0894d06e891709f3cd673f9ea8137ab51af268322265766f8bd6d647aa41cae",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.755,
+            "resolved": false
+        },
+        {
+            "id": "0xc1109800f5de195bbbbaf81b783de4792b6a8a2fbe9b604c715a39c5ae2a2a47",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xc11a6a29ad4dbe16920928339cd9ad3bf3f9a2ab63e52ff5bfb8d177cdfb4d35",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-04-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xc381b79b37b4d34ee7b7a54c0ab5f5d3c5a2a8cc67252d3010649aff1d377bd4",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.9975,
+            "resolved": false
+        },
+        {
+            "id": "0xc4b07998e8f9bf6b95f079d6dc0529f3c6f59698d4e168817ad5f99304de6c57",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.6950000000000001,
+            "resolved": false
+        },
+        {
+            "id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.2715,
+            "resolved": false
+        },
+        {
+            "id": "0xcba24842ceac7a40d2a8b9adde1f4407999b6505193b9fd68156ae76fbffa706",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.795,
+            "resolved": false
+        },
+        {
+            "id": "0xd73237bb27cdc455578e9a0788c358bd79609d394f43a270bde10cde4788105f",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.72,
+            "resolved": false
+        },
+        {
+            "id": "0xd84858f62672e3bde4cb7e5e59b3952673c75d0805d974c4c519700330b33dcf",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.225,
+            "resolved": false
+        },
+        {
+            "id": "0xdade564249db4b9daad8e06c21e06e2760c7c640b2be1c7016baa48bbfef83d9",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.91,
+            "resolved": false
+        },
+        {
+            "id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.375,
+            "resolved": false
+        },
+        {
+            "id": "0xe3033b163d0e0e30cb3154049f28295dada348030e5c6cdfe58ed0d4e393c7e9",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.745,
+            "resolved": false
+        },
+        {
+            "id": "0xe31a6c763685129123cb6a0f729bfce04b768c5a22cb09c5610406df1a302465",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-04-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xe5acfef8707df2e25a99a6e4d9568d033fa063b006022f68375ab3bbcf376818",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.905,
+            "resolved": false
+        },
+        {
+            "id": "0xed34d20a0d8a2891ff7a90303d624adde3be08f4fd2d2f140d709a8aa2e47bcd",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.875,
+            "resolved": false
+        },
+        {
+            "id": "0xee7822fd9a558dbba01cd2a98760a5a8b649483d40f5f92d78a64fd1c21a2aff",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.085,
+            "resolved": false
+        },
+        {
+            "id": "0xefb4d37ec67929c1bbffb16454c5bb8bf574ed367f52c54495a28f0717a1e005",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.76,
+            "resolved": false
+        },
+        {
+            "id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-05-07",
+            "resolved_to": 0.20500000000000002,
+            "resolved": false
+        },
+        {
+            "id": "14b53bc593c52fa6616a9d0b81b58de35be6d1361196c29778ba80a1b04f1f63",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "85d7ed10a6d383c81abc6955e6bd3804afc545ef6d4de46b3e124840fb1781a2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "a987eef385663d96115ba6c113ffb3dc7e83affdcaa8c53421220e4e9e1f95f8",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6ddf6aade8e3c1be768d76de6adc1152f00cf9db1f99dae035fe43743a92dcdd",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "61b318b9bdb76e9542d1f2aa781cc2769131805d843d72806e7b338097f56d5a",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fa4d2a497c94285f4ec72ff280426a2a86bc41776a0e62658dd1bc72eaeb192a",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c76424a0e0e742fb5e9691f25c2f48a070fa3b3e08aa9163b365a2eb48815acf",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8f2ea4ca0e1613f5ed5071b15f8c6eb0e365f00e19ec57a6311aa23ff655e644",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "27e948952d66a749e55f37f9cb63036955768951570c627c3f16ec378df057f9",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ccb75c44436ebc9d35d79e03799e81be999dde80d339866b8ca81c3a125f41bb",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "5e5fae96f10319998728a48a5c42d909cef7cce4a39c194ac10e68c9a35ee023",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "22bcaab07d791e348a1aa7cb7882884d09277c98ea7ec782f658e6db24d88ae6",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "be40b31eeb9702e5a94cd3418b7abfe0d3a314ee09c1f36d77e82270e456a36f",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "25e629b0a54ee795ccbb7c44968f319952cae286525fa43501a290151a3f1d6c",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "5d675aaaef89c7e9b340de20f164638503d97a39dcac53d5db6762f613f2c591",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "8cdd7e6836d4ad5c7964232f54746ec002813b42220648e34541e1757fd1d2be",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "274e2a09f7060b8ea234c1d6a91ec3e43b523a2911042a8696ac2b42fc531ca8",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "a3de2e17c5017add302c14a85f3ca286486e11a0cc02d291e7e0c7200b25e643",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ce43fbbc6a80c2fa7b134080496856a3c4a7dc36b6c9da296af575223d5ab65b",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "98293d96d72cc181fde43e3d8c9692a88f882f11135d9b971d18fdedba497ada",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "9e712ffaf3b7b079b10bfaa1e1d67f7ec51de118ee8eeaa7a10f8b0fde9b5910",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0ebc517c2b923093d530d91187d38873cd5ae3b4e79b02f8c726ade19cc0fb71",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4ec5d08b99659843a99747d85dbf544392876326027e06e94c7d454f15bedbc4",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "9073847fed8835b0457068f50f90de690f18b44c7257d0b1fef838bfabeda796",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "973539acd6a838fe6f407c21a333008830bbfe642b0add5d257d7bc8a008b851",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6b1c68a507fa625722143674cac09c96d837fd8efb49e20bb9a3d5ee14d1cc99",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "5882ac81e7ec14b2d8b3da350027e1e7fee5373489361cc744e6d8f4e3a1f372",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6a1db1f9778fc5a45d290bbc14fbdd0594da68b8d8c94afb1ef7c1d7ac4d5537",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "62a97de6a809b87851c284ae04792ab6ddd70518772fd3e0b1e7af339e5bcba8",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "1136efa42c5d7f76d1d728374dcf42ff7bccec4a1ead6bfa8f6cd6847f483eb3",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "b81664fe56316ef66ac51d058aabe540336665cafb8e75bef86c1a96db5ec1b1",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "bbdac4e818e7a8d828669c585bd78abc8ec5d627fb815cc00bcc7b90c7a32fb3",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "5b1e224969367d47ae6856711b3f9d1335671d330c6ad42ac64f2803cf2a350f",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "92bc6951fbbfb5e57841214f3b0c0e102d6a1c8e8d052925262a27e18f26f309",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0138a4e78eddc4613dbc98a6ab5a4db9ba30d9ca7118805a5ee6c4ed1e673b47",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4e9244fd658bf1e286f52541539fbdaaf2440059a622bd6966f082167b4ce179",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2763fcdcb26acd3051a7685b0ddc8b0d9d0093f9f41f4c49a6c9b9a64eba73de",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "9d6816578f7adcb1e66eae05cd291216e812656e831c2a6f009143d5b0bfa898",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "39d7aa6828192b95302b58e3d018da55ff26535fcef6dda5a46484622347bda6",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "50abbf7c2acbda969cec1aea9302662569b1d16e397b8301e3de20ebae393720",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "903583557dac4eed86c81cac642b20fe7f3425e9ae902f331a29ae6516172741",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4093ea3dcb75afc668a669812c21296be9ce9b93593413b060d51c61133ac505",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "712254290f4fb3ec29aef6451f2e13327271a6b0ad5c6eb741790534b364c893",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "27b3562010fedb45de26cc72b0f1dfcd422aaa195c5c1acdd369833f55a2ac51",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8bff28e35f0e33813ec5f3f2b14d37d4196d63fac21b2a7e9933707a27f671d5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "17a76738a6d44a7201b2667ab83c6dee316e1d7a763240e1f3597d687955ce6d",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "19fe79dd3c949d77e31f598f3012001f0ec798dae23ab312f28e40ad40a80046",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "526c6528b20e5f276b77169c5421bffeddf4b52da372dbbe75ec1bee9126aa19",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "bb66140460a30e52c40df6caf0cc2132290b84d1349935b21dc8db4bec5a0bb0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AAPL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ADP",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "AJG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ALB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ALGN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AMT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "APTV",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BBWI",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BKR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CEG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CHTR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "COF",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "COP",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DD",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DELL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DOV",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "EMN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ETSY",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "FOXA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "GEV",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "GILD",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "HRL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "IFF",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "INCY",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "IQV",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "JCI",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "LYB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "MOS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MPWR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MRK",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "MS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "NOC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "NWS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "NXPI",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ON",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ORLY",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "PCAR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PHM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PLD",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PRU",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SBAC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "SHW",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "TKO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "TPR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "UHS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WDC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WMT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-05-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        }
+    ]
+}
