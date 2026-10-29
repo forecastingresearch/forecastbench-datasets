@@ -191,7 +191,7 @@
             "source": "acled",
             "direction": null,
             "resolution_date": "2026-09-20",
-            "resolved_to": 0.0,
+            "resolved_to": 1.0,
             "resolved": true
         },
         {
@@ -2255,7 +2255,15 @@
             "source": "fred",
             "direction": null,
             "resolution_date": "2026-09-20",
-            "resolved_to": 0.0,
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WM2NS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-10-13",
+            "resolved_to": 1.0,
             "resolved": true
         },
         {
@@ -2279,6 +2287,14 @@
             "source": "fred",
             "direction": null,
             "resolution_date": "2026-09-20",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WRMFNS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-10-13",
             "resolved_to": 0.0,
             "resolved": true
         },
@@ -2286,23 +2302,23 @@
             "id": "GOVPARTYAZ-26-D",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.908,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.906,
             "resolved": false
         },
         {
             "id": "GOVPARTYCT-26-D",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.968,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.962,
             "resolved": false
         },
         {
             "id": "KXAISTREAMSERIES-27-AMA",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.2,
             "resolved": false
         },
@@ -2318,8 +2334,8 @@
             "id": "KXCAELECTION-2604-MTHO",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.73,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.65,
             "resolved": false
         },
         {
@@ -2334,16 +2350,16 @@
             "id": "KXDEPORTATIONS-27JAN01-T450000",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.43,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.45,
             "resolved": false
         },
         {
             "id": "KXDHOUSESEATS-27-232",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.16,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.091,
             "resolved": false
         },
         {
@@ -2398,47 +2414,47 @@
             "id": "KXEPLTOP-27TOP4-CFC",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.7000000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.5700000000000001,
             "resolved": false
         },
         {
             "id": "KXFED-26DEC-T3.75",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.96,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.98,
             "resolved": false
         },
         {
             "id": "KXFED-27APR-T3.75",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.91,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.93,
             "resolved": false
         },
         {
             "id": "KXFEDDECISION-26OCT-H0",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.92,
-            "resolved": false
+            "resolution_date": "2026-10-28",
+            "resolved_to": 1.0,
+            "resolved": true
         },
         {
             "id": "KXHOUSERACE-CO05-26-R",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.6900000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.6000000000000001,
             "resolved": false
         },
         {
             "id": "KXKAMALARUN-28-27JUL01",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.55,
             "resolved": false
         },
@@ -2446,8 +2462,8 @@
             "id": "KXLALIGA-27-RMA",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.14,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.21,
             "resolved": false
         },
         {
@@ -2470,7 +2486,7 @@
             "id": "KXMARMAD-27-TEX",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.041,
             "resolved": false
         },
@@ -2558,47 +2574,47 @@
             "id": "KXNBAEAST1SEED-26-DET",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.1,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.14,
             "resolved": false
         },
         {
             "id": "KXNBAWINS-27LAL-50",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.5,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.53,
             "resolved": false
         },
         {
             "id": "KXNCAAFMWC-26-UNM",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.51,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.59,
             "resolved": false
         },
         {
             "id": "KXNCAAFWINS-26IOWA-8",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.86,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.62,
             "resolved": false
         },
         {
             "id": "KXNCAAFWINS-26OKLA-8",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.15,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.21,
             "resolved": false
         },
         {
             "id": "KXNCAAMBNEXTCOACH-KU26-AMIL",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.02,
             "resolved": false
         },
@@ -2622,16 +2638,16 @@
             "id": "KXNEXTTEAMNFL-26ARODGERS8-PIT",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.9400000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.93,
             "resolved": false
         },
         {
             "id": "KXPAHLAVIHEAD-27JAN-RPAH",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.04,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.03,
             "resolved": false
         },
         {
@@ -2675,11 +2691,19 @@
             "resolved": true
         },
         {
+            "id": "KXTORONTOMAYOR-26OCT26-OCHO",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
             "id": "KXTRUMPADMINLEAVE-26DEC31-AGLE",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.28,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.31,
             "resolved": false
         },
         {
@@ -2702,15 +2726,15 @@
             "id": "KXWAAEROEMP-27APR30-T83000",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.91,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.92,
             "resolved": false
         },
         {
             "id": "KXWAAEROEMP-27APR30-T86000",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.08,
             "resolved": false
         },
@@ -2718,8 +2742,8 @@
             "id": "KXWIMFGEMP-27APR30-T447500",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.97,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.96,
             "resolved": false
         },
         {
@@ -2734,15 +2758,15 @@
             "id": "KXWTI-26NOV03-T79.99",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.92,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.97,
             "resolved": false
         },
         {
             "id": "0N8CI06Shc",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0499011602,
             "resolved": false
         },
@@ -2750,15 +2774,15 @@
             "id": "0g05Ecq2Ug",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.11996924660000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.0728144917,
             "resolved": false
         },
         {
             "id": "17bOVCJRzRlMUjcG9rsW",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1281556704,
             "resolved": false
         },
@@ -2766,15 +2790,15 @@
             "id": "298PNt22sn",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0429521418,
-            "resolved": false
+            "resolution_date": "2026-10-24",
+            "resolved_to": 0.0,
+            "resolved": true
         },
         {
             "id": "2ht096cAIg",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.47089454100000006,
             "resolved": false
         },
@@ -2782,7 +2806,7 @@
             "id": "5wTpwmgibU6SA7nFkLnT",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8361043426,
             "resolved": false
         },
@@ -2798,7 +2822,7 @@
             "id": "7lBUKt5xj8T6QKXmhVTf",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.155975687,
             "resolved": false
         },
@@ -2806,7 +2830,7 @@
             "id": "8A09uQ0quC",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0790754286,
             "resolved": false
         },
@@ -2822,7 +2846,7 @@
             "id": "8poB8YIlb9QOlkRacyC7",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.6979121072000001,
             "resolved": false
         },
@@ -2830,7 +2854,7 @@
             "id": "9KWkWMGY9Sq45x90DJRU",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.5236791862,
             "resolved": false
         },
@@ -2838,7 +2862,7 @@
             "id": "AUzQClL5qt",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8121490085,
             "resolved": false
         },
@@ -2846,7 +2870,7 @@
             "id": "Aq0fpwzynKhRNw0Dxkld",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0784464352,
             "resolved": false
         },
@@ -2854,15 +2878,15 @@
             "id": "Bn76fB9rYXMkHsbCs9kZ",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0338214333,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.0338201848,
             "resolved": false
         },
         {
             "id": "EIdqPSghpg",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.44889940580000004,
             "resolved": false
         },
@@ -2870,15 +2894,15 @@
             "id": "F4AeJGXDXGFbuZoH59g3",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.5580802468,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.5657475031,
             "resolved": false
         },
         {
             "id": "Gk0rSk3vqy1RvqQn9smz",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8184635963,
             "resolved": false
         },
@@ -2886,15 +2910,15 @@
             "id": "IUgtSpszNS",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.1884639759,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.1919266557,
             "resolved": false
         },
         {
             "id": "LS5dQlytlp",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1114804348,
             "resolved": false
         },
@@ -2902,7 +2926,7 @@
             "id": "M0AYiQ14YgJvoX3ol0Dm",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.4129698176,
             "resolved": false
         },
@@ -2918,31 +2942,31 @@
             "id": "QI2ZsRUsdd",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.3167882997,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.3393534306,
             "resolved": false
         },
         {
             "id": "REC5CnSSSz",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0749114678,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.0546162605,
             "resolved": false
         },
         {
             "id": "SAIUNdCI8U",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.20398575500000002,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.2033840727,
             "resolved": false
         },
         {
             "id": "SEIqqlqg8L",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1031378611,
             "resolved": false
         },
@@ -2950,7 +2974,7 @@
             "id": "U0dSs2nR5L",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8366995281,
             "resolved": false
         },
@@ -2958,7 +2982,7 @@
             "id": "UBrLHVm9AEsd8F4vgOKb",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.016737692000000002,
             "resolved": false
         },
@@ -2966,15 +2990,15 @@
             "id": "US5qOI686S",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.07522477250000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.0661852919,
             "resolved": false
         },
         {
             "id": "UsyCqAyEpP",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0564191952,
             "resolved": false
         },
@@ -2982,7 +3006,7 @@
             "id": "VW7aefNf5ACqCbqrGzlm",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.2362271199,
             "resolved": false
         },
@@ -2990,7 +3014,7 @@
             "id": "WAsCcWMUE3BGCQFTNeGN",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.7943285979,
             "resolved": false
         },
@@ -2998,7 +3022,7 @@
             "id": "Wjp8k8ixLykVvyZ5iFeT",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.21109302100000002,
             "resolved": false
         },
@@ -3006,23 +3030,23 @@
             "id": "ZZLRuEZpZl",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.1188574428,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.1181825393,
             "resolved": false
         },
         {
             "id": "a86n8pc6e3",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.1317575607,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.18705255480000002,
             "resolved": false
         },
         {
             "id": "biXq0Tl6I185ivohSgoV",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.7811944470000001,
             "resolved": false
         },
@@ -3038,7 +3062,7 @@
             "id": "ckEThIMLfTNz2EO6R40V",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.9532604801000001,
             "resolved": false
         },
@@ -3046,7 +3070,7 @@
             "id": "d9h9uNSRpL",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1373444681,
             "resolved": false
         },
@@ -3054,7 +3078,7 @@
             "id": "dLq5q8y9h5",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1386981682,
             "resolved": false
         },
@@ -3062,7 +3086,7 @@
             "id": "dtdu9gymzw",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0714798204,
             "resolved": false
         },
@@ -3078,7 +3102,7 @@
             "id": "fo3Koo4ySJvi4xOgmTcX",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0812268146,
             "resolved": false
         },
@@ -3086,15 +3110,15 @@
             "id": "g4qkq9edww",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0554552284,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.056675653900000005,
             "resolved": false
         },
         {
             "id": "gPA98L9uQS",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.9194624708,
             "resolved": false
         },
@@ -3102,7 +3126,7 @@
             "id": "h58ZgnnhcO",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1317129799,
             "resolved": false
         },
@@ -3110,7 +3134,7 @@
             "id": "h8nzsLSnUl",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.3111150608,
             "resolved": false
         },
@@ -3118,7 +3142,7 @@
             "id": "h8tQQ9PRsC",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.010454076100000001,
             "resolved": false
         },
@@ -3126,7 +3150,7 @@
             "id": "hACld8CSRI",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.9575933072,
             "resolved": false
         },
@@ -3134,7 +3158,7 @@
             "id": "jtZoCx0aV7i5RSEyiwe8",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.655018313,
             "resolved": false
         },
@@ -3142,8 +3166,8 @@
             "id": "n00puZUNOA",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0364308655,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.036381562900000004,
             "resolved": false
         },
         {
@@ -3158,15 +3182,15 @@
             "id": "nPhdNdqI6S",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.4605203799,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.4777452703,
             "resolved": false
         },
         {
             "id": "ojsc11z8cq",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0489486489,
             "resolved": false
         },
@@ -3174,8 +3198,8 @@
             "id": "pUncsZnp2u",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.6832379371,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.6740452353,
             "resolved": false
         },
         {
@@ -3190,7 +3214,7 @@
             "id": "r9WBbcLqWc5kMOE2mLDL",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1214213063,
             "resolved": false
         },
@@ -3206,7 +3230,7 @@
             "id": "tuzhIR9Qh8",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.6755958535000001,
             "resolved": false
         },
@@ -3214,23 +3238,23 @@
             "id": "uISNlAqC2E",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0641009532,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.0568825571,
             "resolved": false
         },
         {
             "id": "y8LPchUU0h",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0744192156,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.0718054253,
             "resolved": false
         },
         {
             "id": "zl9pyIShlP",
             "source": "manifold",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.45654544620000004,
             "resolved": false
         },
@@ -3238,15 +3262,15 @@
             "id": "11045",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.63,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.64,
             "resolved": false
         },
         {
             "id": "12298",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.375,
             "resolved": false
         },
@@ -3254,7 +3278,7 @@
             "id": "1385",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -3262,7 +3286,7 @@
             "id": "15134",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.5,
             "resolved": false
         },
@@ -3270,7 +3294,7 @@
             "id": "15489",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.34,
             "resolved": false
         },
@@ -3278,15 +3302,15 @@
             "id": "15490",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.0148004616,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.01,
             "resolved": false
         },
         {
             "id": "15492",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.30000000000000004,
             "resolved": false
         },
@@ -3294,7 +3318,7 @@
             "id": "20169",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.259,
             "resolved": false
         },
@@ -3302,15 +3326,15 @@
             "id": "22310",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.526,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.515,
             "resolved": false
         },
         {
             "id": "28284",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.51,
             "resolved": false
         },
@@ -3318,7 +3342,7 @@
             "id": "28683",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.52,
             "resolved": false
         },
@@ -3326,7 +3350,7 @@
             "id": "34504",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.9,
             "resolved": false
         },
@@ -3334,7 +3358,7 @@
             "id": "38166",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.02,
             "resolved": false
         },
@@ -3342,7 +3366,7 @@
             "id": "38209",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.05,
             "resolved": false
         },
@@ -3350,7 +3374,7 @@
             "id": "38405",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8,
             "resolved": false
         },
@@ -3358,7 +3382,7 @@
             "id": "38955",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.59,
             "resolved": false
         },
@@ -3366,7 +3390,7 @@
             "id": "38957",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.525,
             "resolved": false
         },
@@ -3374,7 +3398,7 @@
             "id": "39127",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.41000000000000003,
             "resolved": false
         },
@@ -3382,7 +3406,7 @@
             "id": "39128",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.65,
             "resolved": false
         },
@@ -3390,15 +3414,15 @@
             "id": "40289",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.16,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.15,
             "resolved": false
         },
         {
             "id": "40543",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -3406,7 +3430,7 @@
             "id": "40966",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.2,
             "resolved": false
         },
@@ -3414,7 +3438,7 @@
             "id": "40969",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.108,
             "resolved": false
         },
@@ -3422,7 +3446,7 @@
             "id": "40976",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8,
             "resolved": false
         },
@@ -3430,7 +3454,7 @@
             "id": "41072",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.05,
             "resolved": false
         },
@@ -3438,7 +3462,7 @@
             "id": "41141",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.02,
             "resolved": false
         },
@@ -3446,7 +3470,7 @@
             "id": "41142",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.09,
             "resolved": false
         },
@@ -3454,7 +3478,7 @@
             "id": "41193",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.12,
             "resolved": false
         },
@@ -3470,7 +3494,7 @@
             "id": "41365",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.25,
             "resolved": false
         },
@@ -3478,23 +3502,23 @@
             "id": "41526",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.2,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.19,
             "resolved": false
         },
         {
             "id": "41678",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.548,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.54,
             "resolved": false
         },
         {
             "id": "41686",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.9500000000000001,
             "resolved": false
         },
@@ -3510,7 +3534,7 @@
             "id": "42033",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.25,
             "resolved": false
         },
@@ -3518,7 +3542,7 @@
             "id": "42034",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.25,
             "resolved": false
         },
@@ -3526,7 +3550,7 @@
             "id": "42517",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.96,
             "resolved": false
         },
@@ -3542,7 +3566,7 @@
             "id": "43274",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.78,
             "resolved": false
         },
@@ -3550,7 +3574,7 @@
             "id": "43316",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.11,
             "resolved": false
         },
@@ -3566,7 +3590,7 @@
             "id": "43490",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.30000000000000004,
             "resolved": false
         },
@@ -3574,7 +3598,7 @@
             "id": "43609",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.25,
             "resolved": false
         },
@@ -3582,7 +3606,7 @@
             "id": "43616",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.03,
             "resolved": false
         },
@@ -3598,15 +3622,15 @@
             "id": "43839",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.5633938529,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.5560052404,
             "resolved": false
         },
         {
             "id": "43885",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.999,
             "resolved": false
         },
@@ -3614,15 +3638,15 @@
             "id": "43912",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.35000000000000003,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.29,
             "resolved": false
         },
         {
             "id": "43941",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.5,
             "resolved": false
         },
@@ -3630,15 +3654,15 @@
             "id": "43980",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.16,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.2,
             "resolved": false
         },
         {
             "id": "44176",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.41000000000000003,
             "resolved": false
         },
@@ -3646,7 +3670,7 @@
             "id": "44191",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.30000000000000004,
             "resolved": false
         },
@@ -3654,7 +3678,7 @@
             "id": "44364",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.25,
             "resolved": false
         },
@@ -3662,23 +3686,23 @@
             "id": "44553",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.35000000000000003,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.33,
             "resolved": false
         },
         {
             "id": "44913",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.65,
-            "resolved": false
+            "resolution_date": "2026-10-25",
+            "resolved_to": 1.0,
+            "resolved": true
         },
         {
             "id": "45008",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -3686,7 +3710,7 @@
             "id": "6462",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.02,
             "resolved": false
         },
@@ -3694,7 +3718,7 @@
             "id": "7316",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.58,
             "resolved": false
         },
@@ -3702,7 +3726,7 @@
             "id": "8408",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.30000000000000004,
             "resolved": false
         },
@@ -3710,7 +3734,7 @@
             "id": "8600",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.8200000000000001,
             "resolved": false
         },
@@ -3718,7 +3742,7 @@
             "id": "8602",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.5,
             "resolved": false
         },
@@ -3726,7 +3750,7 @@
             "id": "8725",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.06,
             "resolved": false
         },
@@ -3758,17 +3782,17 @@
             "id": "0x1295040186326703b63b9c7d719f8c5bb88ee6fa9672e3924f90ef74ee7b0459",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.645,
-            "resolved": false
+            "resolution_date": "2026-10-27",
+            "resolved_to": 1.0,
+            "resolved": true
         },
         {
             "id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.7655000000000001,
-            "resolved": false
+            "resolution_date": "2026-10-27",
+            "resolved_to": 1.0,
+            "resolved": true
         },
         {
             "id": "0x1572a7888f388ba02102e118f7829cf151f5e961d63e8ed9be8ce55d882512a4",
@@ -3782,15 +3806,15 @@
             "id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.77,
-            "resolved": false
+            "resolution_date": "2026-10-26",
+            "resolved_to": 0.0,
+            "resolved": true
         },
         {
             "id": "0x22215d1b4337eb3bf7dc9778e934e8b81622ee452eec229ecaa00c8f7d2b209c",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.0495,
             "resolved": false
         },
@@ -3798,8 +3822,8 @@
             "id": "0x27530b14f2a2cf4e69103b658c6357d55e5068d433689d725ed8718cb61d5513",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.966,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.9725,
             "resolved": false
         },
         {
@@ -3835,14 +3859,6 @@
             "resolved": true
         },
         {
-            "id": "0x4de07f3b6b1220c2406e5807d30588fc6cbd5b938310835524106d05d20a9b4a",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.855,
-            "resolved": false
-        },
-        {
             "id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
             "source": "polymarket",
             "direction": null,
@@ -3870,24 +3886,16 @@
             "id": "0x694595d0a008f10e4701285d071e4b08407495f6f8a6bd8cbdd7de522fa9b463",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.525,
-            "resolved": false
-        },
-        {
-            "id": "0x6b9b5e8bde9dc717a1c693dae5b8ccd1e03be84170a77fbfd2caaac006fc65f6",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.22,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.4385,
             "resolved": false
         },
         {
             "id": "0x741bb46008b72234857c5118c8365ab3c2f69dbf28b30b59de04f173b8a778de",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.255,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.305,
             "resolved": false
         },
         {
@@ -3902,8 +3910,8 @@
             "id": "0x789e15c2a1581b37deaabb5fa555d0d8dbfba11b46424c65cd42e73cfe722eaa",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.6950000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.5700000000000001,
             "resolved": false
         },
         {
@@ -3918,16 +3926,8 @@
             "id": "0x7c9c13d0adc82f9e5aaa774e75ac1d08d181367c4cda17fa641293cec7d13bc2",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.435,
-            "resolved": false
-        },
-        {
-            "id": "0x86e8f678e6cebb9596ffbb5a736b2ff9f36b12905d5b65b1556329c28533c7a1",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.14,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.41000000000000003,
             "resolved": false
         },
         {
@@ -3942,40 +3942,32 @@
             "id": "0x8a4196617dcb703e49d9bb36d3847bf6a75fd364dbd19f8d408ac944bf1a03d8",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.73,
-            "resolved": false
-        },
-        {
-            "id": "0x91a003371cb96dc30511f883052d6b5957d9f099f02704f9838523a260dd1162",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.935,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.795,
             "resolved": false
         },
         {
             "id": "0x9208a65d5782c80ee0c212fc31450164f7f4339e1fb84b26f41e9ae2b3533b26",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.735,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.51,
             "resolved": false
         },
         {
             "id": "0x94758b948da26cf46855565f65be7f58574db4b235096615811b9601ebe736a6",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.6655,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.6925,
             "resolved": false
         },
         {
             "id": "0x950e0c243880f9cbbaf1e73e50cf14fe11e851fbb778b9ef5d2be1e9c87a3abe",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.9500000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.925,
             "resolved": false
         },
         {
@@ -3990,8 +3982,8 @@
             "id": "0x968a1a79e001d49fa3ee1429e3b95eb01797587740f86d4e6becf3ab1b275bfb",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.6950000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.675,
             "resolved": false
         },
         {
@@ -4019,18 +4011,10 @@
             "resolved": true
         },
         {
-            "id": "0xa0fb701d8d9c8cc22e7c71039e8141c8138f27acb3d1bcf2ac18f90ffc4ab270",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.031,
-            "resolved": false
-        },
-        {
             "id": "0xa2739ba4bc05fe9791b3a3e437104254625ed5a8e9b43f96aef4255e1757e618",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.795,
             "resolved": false
         },
@@ -4046,8 +4030,8 @@
             "id": "0xa9cd0c9ef05fd4d9654ee8d960a84c4d6b68761137484289c89400742b1c98d5",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.61,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.58,
             "resolved": false
         },
         {
@@ -4062,32 +4046,16 @@
             "id": "0xbdfde2fd2472d48a0b126c360eab593687d87208a0f54a89079680af25007e92",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.335,
-            "resolved": false
+            "resolution_date": "2026-10-27",
+            "resolved_to": 0.0,
+            "resolved": true
         },
         {
             "id": "0xbf7a9da08326512f76129d4accf9f7d852dbf1cb7dd2c512479ff40c872f5659",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.635,
-            "resolved": false
-        },
-        {
-            "id": "0xc00b4c4886159a2e46e8a2d5fddc19cb41cc30ecd25c5cee4458912eb8276e75",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.28250000000000003,
-            "resolved": false
-        },
-        {
-            "id": "0xc372e84c849b4756059daec6b37d45b4925be8363487a6db354e4c4e1841ebed",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.865,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.675,
             "resolved": false
         },
         {
@@ -4110,32 +4078,24 @@
             "id": "0xcede29c8af89d8bd2118088768dcee36736ed43af143e70d59f60d7b365a98ef",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.17500000000000002,
-            "resolved": false
-        },
-        {
-            "id": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
-            "source": "polymarket",
-            "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.07,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.16,
             "resolved": false
         },
         {
             "id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.6950000000000001,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.003,
             "resolved": false
         },
         {
-            "id": "0xd0d47637e25a2ddccb016ba469d6a7ec4be45a937f520faa23a8cbbd14a74759",
+            "id": "0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.1685,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.967,
             "resolved": false
         },
         {
@@ -4150,23 +4110,31 @@
             "id": "0xd9121fe8396b86e4a35fcc812f1ff2699ecf4ccfad909dfba7b269f413d7ee84",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.135,
+            "resolved": false
+        },
+        {
+            "id": "0xdaafa20f645d3e955dda3af50481ee3aebca3295f1d54b01452f99e69afa6e1c",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 0.09,
             "resolved": false
         },
         {
             "id": "0xdf9bf27ee5757c55b44b8b9826ddc9ec3a8809aa3278634c45edbb7fc8f1a3e3",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
-            "resolved_to": 0.925,
-            "resolved": false
+            "resolution_date": "2026-10-28",
+            "resolved_to": 1.0,
+            "resolved": true
         },
         {
             "id": "0xe25b0be3d538078068d0bf2fd311bfbda4b07be31bee8ac4cdf1a0999d2bf328",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-10-23",
+            "resolution_date": "2026-10-28",
             "resolved_to": 0.155,
             "resolved": false
         },
