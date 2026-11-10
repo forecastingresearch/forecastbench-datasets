@@ -3,70 +3,6 @@
     "question_set": "2026-10-25-llm.json",
     "resolutions": [
         {
-            "id": "ECB_EXR_D.CNY.EUR.SP00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.E01.ATS.NN00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.E02.LUF.NN00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.E03.HKD.EN00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.GBP.EUR.SP00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.H00.LUF.NN00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.H01.CYP.NN00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
-            "id": "ECB_EXR_D.H03.CYP.NN00.A",
-            "source": "dbnomics",
-            "direction": null,
-            "resolution_date": "2026-11-01",
-            "resolved_to": 0.0,
-            "resolved": true
-        },
-        {
             "id": "AAA10Y",
             "source": "fred",
             "direction": null,
@@ -454,8 +390,8 @@
             "id": "GOVPARTYKS-27-R",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.002,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.003,
             "resolved": false
         },
         {
@@ -518,8 +454,8 @@
             "id": "KXAAAGASMAX-26DEC31-5.20",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.07,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.04,
             "resolved": false
         },
         {
@@ -550,7 +486,7 @@
             "id": "KXBILLS-CHIP",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.38,
             "resolved": false
         },
@@ -558,15 +494,15 @@
             "id": "KXCAELECTION-2607-MVAN",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.02,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.03,
             "resolved": false
         },
         {
             "id": "KXCLOSESTGOVERNOR-27JAN20-GA",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.001,
             "resolved": false
         },
@@ -574,55 +510,55 @@
             "id": "KXCODINGMODEL-26DEC-ANTH",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.81,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.8,
             "resolved": false
         },
         {
             "id": "KXCPI-26NOV-T0.2",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.17,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.04,
             "resolved": false
         },
         {
             "id": "KXCPI-26OCT-T0.1",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9400000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.91,
             "resolved": false
         },
         {
             "id": "KXCPI-26OCT-T0.3",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.14,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.09,
             "resolved": false
         },
         {
             "id": "KXCPICOREYOY-26NOV-T2.6",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.85,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.75,
             "resolved": false
         },
         {
             "id": "KXCPICOREYOY-26NOV-T2.9",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.26,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.2,
             "resolved": false
         },
         {
             "id": "KXCPICOREYOY-26NOV-T3.1",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.04,
             "resolved": false
         },
@@ -630,63 +566,63 @@
             "id": "KXCPIYOY-26DEC-T3.8",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.55,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.30000000000000004,
             "resolved": false
         },
         {
             "id": "KXCPIYOY-26NOV-T3.7",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.66,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.43,
             "resolved": false
         },
         {
             "id": "KXCPIYOY-26NOV-T3.8",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.37,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.23,
             "resolved": false
         },
         {
             "id": "KXCPIYOY-26NOV-T3.9",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.23,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.1,
             "resolved": false
         },
         {
             "id": "KXCPIYOY-26NOV-T4.0",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.15,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.06,
             "resolved": false
         },
         {
             "id": "KXCRITICSPIC-27-ODY",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.45,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.39,
             "resolved": false
         },
         {
             "id": "KXDSENATESEATS-27-ABOVE52",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.984,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.985,
             "resolved": false
         },
         {
             "id": "KXDSENATESEATSH-27-E53",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.001,
             "resolved": false
         },
@@ -694,47 +630,47 @@
             "id": "KXENGAGEMENTSWEENEYBRUAN-26",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.34,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.35000000000000003,
             "resolved": false
         },
         {
             "id": "KXFED-26DEC-T4.00",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.77,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.79,
             "resolved": false
         },
         {
             "id": "KXFEDCHGCOUNT-27JAN01-E2",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.763,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.785,
             "resolved": false
         },
         {
             "id": "KXFEDDECISION-26DEC-H0",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.23,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.19,
             "resolved": false
         },
         {
             "id": "KXFEDDECISION-26DEC-H25",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.76,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.81,
             "resolved": false
         },
         {
             "id": "KXFEDDECISION-27MAR-H25",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.35000000000000003,
             "resolved": false
         },
@@ -742,72 +678,72 @@
             "id": "KXFEDERALCHARGE-27JAN01-PSTR",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.07,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.07100000000000001,
             "resolved": false
         },
         {
             "id": "KXFOLLOWERCOUNTCLAV-27-500000",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.19,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.2,
             "resolved": false
         },
         {
             "id": "KXGOVAK-26-JKRE",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.989,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.991,
             "resolved": false
         },
         {
             "id": "KXGOVPARTYAK-26-D",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.984,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.986,
             "resolved": false
         },
         {
             "id": "KXGOVTSHUTDOWN-26DEC12",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.4,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.39,
             "resolved": false
         },
         {
             "id": "KXGRAMBNA-69-SIE",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.28,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.26,
             "resolved": false
         },
         {
             "id": "KXGRAMMYNOMAOTY-69-DAN",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.6000000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.52,
             "resolved": false
         },
         {
             "id": "KXHORMUZAVG-27JAN01-A30",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.08,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.12,
             "resolved": false
         },
         {
             "id": "KXHOUSERACE-MN01-26-R",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.025,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.046,
             "resolved": false
         },
         {
@@ -838,8 +774,8 @@
             "id": "KXHOUSETURNOUT-26NOV03-120",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.8300000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9,
             "resolved": false
         },
         {
@@ -854,7 +790,7 @@
             "id": "KXILNUCLEAR-27FEB28-T95.0",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.92,
             "resolved": false
         },
@@ -862,8 +798,8 @@
             "id": "KXKYDISTEMP-26DEC02-T7542",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.11,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.12,
             "resolved": false
         },
         {
@@ -894,7 +830,7 @@
             "id": "KXMARCELLUSGAS-27MAR31-T10.00",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.11,
             "resolved": false
         },
@@ -910,15 +846,15 @@
             "id": "KXMIDTERMMOV-AZGOVD-P5",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.98,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9590000000000001,
             "resolved": false
         },
         {
             "id": "KXMIDTERMMOV-GASEND-P10",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.991,
             "resolved": false
         },
@@ -926,15 +862,15 @@
             "id": "KXMIDTERMMOV-MESEND-P1",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.999,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.998,
             "resolved": false
         },
         {
             "id": "KXMIDTERMMOV-MISEND-P5",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.995,
             "resolved": false
         },
@@ -942,7 +878,7 @@
             "id": "KXMIDTERMMOV-MNSEND-P5",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.999,
             "resolved": false
         },
@@ -950,16 +886,16 @@
             "id": "KXMIDTERMMOV-NCSEND-P9",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9510000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.99,
             "resolved": false
         },
         {
             "id": "KXMIDTERMMOV-OHSEND-P4",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.998,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9440000000000001,
             "resolved": false
         },
         {
@@ -982,7 +918,7 @@
             "id": "KXMIDTERMMOV-WIGOVD-P4",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.99,
             "resolved": false
         },
@@ -998,24 +934,24 @@
             "id": "KXMUSKNW-26DEC31-T800",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.61,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.6900000000000001,
             "resolved": false
         },
         {
             "id": "KXNCAAFPAC12-26-FRES",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.03,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.01,
             "resolved": false
         },
         {
             "id": "KXNDKOIL-27FEB26-T421.101",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.41000000000000003,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.43,
             "resolved": false
         },
         {
@@ -1030,7 +966,7 @@
             "id": "KXNYCASKRENT-27JAN31-T4000",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.5,
             "resolved": false
         },
@@ -1038,7 +974,7 @@
             "id": "KXNYCBILLIONAIRES-26-115",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.18,
             "resolved": false
         },
@@ -1046,23 +982,23 @@
             "id": "KXOSCARNOMACTO-27-SEB",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.2,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.17,
             "resolved": false
         },
         {
             "id": "KXOSCARNOMACTR-27-REN",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.32,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.27,
             "resolved": false
         },
         {
             "id": "KXOSCARNOMPIC-27-CLU",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.39,
             "resolved": false
         },
@@ -1070,8 +1006,8 @@
             "id": "KXOSCARNOMPIC-27-DIG",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.27,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.24,
             "resolved": false
         },
         {
@@ -1086,47 +1022,47 @@
             "id": "KXRT-HUN-70",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.77,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.78,
             "resolved": false
         },
         {
             "id": "KXRT-HUN-75",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.55,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.62,
             "resolved": false
         },
         {
             "id": "KXRT-HUN-80",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.36,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.35000000000000003,
             "resolved": false
         },
         {
             "id": "KXRT-HUN-85",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.17,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.15,
             "resolved": false
         },
         {
             "id": "KXRT-IPL-75",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.99,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.98,
             "resolved": false
         },
         {
             "id": "KXRT-IPL-80",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.9500000000000001,
             "resolved": false
         },
@@ -1134,15 +1070,15 @@
             "id": "KXRT-IPL-85",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.62,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.6000000000000001,
             "resolved": false
         },
         {
             "id": "KXSDCORNYIELD-27JAN31-T145",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.78,
             "resolved": false
         },
@@ -1150,7 +1086,7 @@
             "id": "KXSLATECOUNT-26Q4-L60",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.89,
             "resolved": false
         },
@@ -1158,31 +1094,31 @@
             "id": "KXTAIPEIMAYOR-26NOV28-CWAN",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.67,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.65,
             "resolved": false
         },
         {
             "id": "KXTAIPEIMAYOR-26NOV28-SPY",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.35000000000000003,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.36,
             "resolved": false
         },
         {
             "id": "KXTROPSTORM-26DEC01-T10",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.22,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.15,
             "resolved": false
         },
         {
             "id": "KXUNSEC-27JAN-RGRYN",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.27,
             "resolved": false
         },
@@ -1190,7 +1126,7 @@
             "id": "KXVAPORTTEU-27JAN31-T3.15",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.84,
             "resolved": false
         },
@@ -1198,15 +1134,15 @@
             "id": "KXWALLSTBONUS-27MAR31-T275000",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.46,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.45,
             "resolved": false
         },
         {
             "id": "KXWICORNYIELD-27JAN31-T176",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.84,
             "resolved": false
         },
@@ -1246,23 +1182,23 @@
             "id": "KXYOUTHUN-26DEC04-T7.5",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.13,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.15,
             "resolved": false
         },
         {
             "id": "SENATEAK-26-R",
             "source": "kalshi",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.024,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.026000000000000002,
             "resolved": false
         },
         {
             "id": "1385",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -1270,15 +1206,15 @@
             "id": "15134",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.28,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.23,
             "resolved": false
         },
         {
             "id": "15492",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.276,
             "resolved": false
         },
@@ -1286,7 +1222,7 @@
             "id": "20169",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.21,
             "resolved": false
         },
@@ -1294,7 +1230,7 @@
             "id": "28395",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.8,
             "resolved": false
         },
@@ -1302,7 +1238,7 @@
             "id": "36331",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.04,
             "resolved": false
         },
@@ -1310,7 +1246,7 @@
             "id": "36478",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.76,
             "resolved": false
         },
@@ -1318,7 +1254,7 @@
             "id": "38950",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.51,
             "resolved": false
         },
@@ -1326,7 +1262,7 @@
             "id": "38955",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.59,
             "resolved": false
         },
@@ -1334,7 +1270,7 @@
             "id": "38957",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.525,
             "resolved": false
         },
@@ -1342,7 +1278,7 @@
             "id": "40289",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.2,
             "resolved": false
         },
@@ -1350,7 +1286,7 @@
             "id": "40543",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -1358,7 +1294,7 @@
             "id": "40767",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -1366,15 +1302,15 @@
             "id": "40966",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.21,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.24,
             "resolved": false
         },
         {
             "id": "40969",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.08,
             "resolved": false
         },
@@ -1382,23 +1318,23 @@
             "id": "40976",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.8300000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.8,
             "resolved": false
         },
         {
             "id": "41130",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.75,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.732206408,
             "resolved": false
         },
         {
             "id": "41144",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.07,
             "resolved": false
         },
@@ -1406,7 +1342,7 @@
             "id": "41193",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -1414,7 +1350,7 @@
             "id": "41490",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.18,
             "resolved": false
         },
@@ -1422,7 +1358,7 @@
             "id": "41526",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.19,
             "resolved": false
         },
@@ -1430,7 +1366,7 @@
             "id": "41678",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.5700000000000001,
             "resolved": false
         },
@@ -1438,15 +1374,15 @@
             "id": "42666",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.0985618058,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.0964699011,
             "resolved": false
         },
         {
             "id": "43119",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.07,
             "resolved": false
         },
@@ -1454,7 +1390,7 @@
             "id": "43274",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.78,
             "resolved": false
         },
@@ -1462,7 +1398,7 @@
             "id": "43281",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.4,
             "resolved": false
         },
@@ -1470,7 +1406,7 @@
             "id": "43316",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.15,
             "resolved": false
         },
@@ -1486,7 +1422,7 @@
             "id": "43730",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.05,
             "resolved": false
         },
@@ -1494,7 +1430,7 @@
             "id": "43839",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.5,
             "resolved": false
         },
@@ -1510,7 +1446,7 @@
             "id": "43980",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.16,
             "resolved": false
         },
@@ -1518,7 +1454,7 @@
             "id": "44883",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.55,
             "resolved": false
         },
@@ -1526,7 +1462,7 @@
             "id": "45421",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.1,
             "resolved": false
         },
@@ -1534,7 +1470,7 @@
             "id": "45423",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.05,
             "resolved": false
         },
@@ -1542,7 +1478,7 @@
             "id": "45461",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.23,
             "resolved": false
         },
@@ -1550,7 +1486,7 @@
             "id": "45462",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.05,
             "resolved": false
         },
@@ -1558,7 +1494,7 @@
             "id": "45467",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.07,
             "resolved": false
         },
@@ -1566,7 +1502,7 @@
             "id": "45736",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.7000000000000001,
             "resolved": false
         },
@@ -1574,7 +1510,7 @@
             "id": "45806",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.5,
             "resolved": false
         },
@@ -1582,7 +1518,7 @@
             "id": "7819",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.139,
             "resolved": false
         },
@@ -1590,7 +1526,7 @@
             "id": "8602",
             "source": "metaculus",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.54,
             "resolved": false
         },
@@ -1606,95 +1542,95 @@
             "id": "0x0acbe1e5050eff25014d0d6941f58db1187daeb99f9435179adeca0258b8d924",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.16,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.195,
             "resolved": false
         },
         {
             "id": "0x0c56e5dfd8a9716cdd20ab789d72883a7a87bb732eeec55186cb636460db7edc",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.625,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.585,
             "resolved": false
         },
         {
             "id": "0x0ff4131bebd7e76a8d4e10951cf22ed92616ed2b5631d71e80721e7afd94f6ed",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.36,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.365,
             "resolved": false
         },
         {
             "id": "0x10b5db9b413eff04aa69692bf7c834d16321bdf5ebc774b4adbf7ed3c37da329",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.355,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.31,
             "resolved": false
         },
         {
             "id": "0x133b51a6851a2ee619e841693c0f75f3c3fdc8d75d69eadd3f0c0fe9105c50ee",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.106,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.1305,
             "resolved": false
         },
         {
             "id": "0x162e356bfab7ad18fe4e3029d5811d9a95fce95d93858b42924a3b9ffbcf1a93",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.885,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.845,
             "resolved": false
         },
         {
             "id": "0x19383006e0698d09c73ce34cd933f10a4ac4fb51555d23b220969d1590828365",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.755,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.81,
             "resolved": false
         },
         {
             "id": "0x19d2ff72e389d190c183e6b114817301d29eba651d67d75a38ee201a05188fd9",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.986,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9815,
             "resolved": false
         },
         {
             "id": "0x1c4c6a698f0591ddf0c96e1beb56f8c75112ef849331bf3b0388f14830a7421d",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.545,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.645,
             "resolved": false
         },
         {
             "id": "0x1cd3f72c814065a8f7f03ddfce24f7ae3018c0778e00546f52423e41de2c531f",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.515,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.51,
             "resolved": false
         },
         {
             "id": "0x1f6926c8e2a2d7caf40dbf7e64f422dc7f06a5c4da435ec1b256abb82283396d",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.1,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.11,
             "resolved": false
         },
         {
             "id": "0x23969ec06514ad241fda435742187a08c1b2b2d0b5080f0c0751c9dc0f2d886b",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.9995,
             "resolved": false
         },
@@ -1702,7 +1638,7 @@
             "id": "0x2420c9a4c59ba4becc7910e52c9f71c3a28c325007fa6900e33877a03dff7432",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.0005,
             "resolved": false
         },
@@ -1710,72 +1646,72 @@
             "id": "0x2464652e9f2b4b0dd5f228aae58d17222f1102d6d3cea1a7f898a8e0880e5a8e",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.75,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.755,
             "resolved": false
         },
         {
             "id": "0x25a39e7692a267810b1ea79ee60a751e6cfbbee7586dba3378698103623bee80",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.155,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.145,
             "resolved": false
         },
         {
             "id": "0x2b9931e13d436ee68b2870d31400f5bed8f5f13ad321355d0fd1048f706bba6a",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.125,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.145,
             "resolved": false
         },
         {
             "id": "0x2dcbc71a3f8108936e768b503d565fbda7a644b2a0bd9ed45f74982a2bb11fba",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.715,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.805,
             "resolved": false
         },
         {
             "id": "0x326df6a10a6cdd74bdc1ef77906037e90b1f1d6dd1fdcbf6580aea62de094a96",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.6955,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.735,
             "resolved": false
         },
         {
             "id": "0x3377edf8e5a1c9bf41b2a3e88e3c0576f0e2972808cc027c87d5344a57b9ba81",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.255,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.32,
             "resolved": false
         },
         {
             "id": "0x3452bb28983bc33b37ddfd98da2138dfd89782faec65a2607ed5aa86a17c9199",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.979,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.98,
             "resolved": false
         },
         {
             "id": "0x352b48203f4838cf28f6065ac9d55798c411664723749f3166f0abe3bf64efa4",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.18,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.16,
             "resolved": false
         },
         {
             "id": "0x357319ded51afc8843eb0ddcf345c2de1f7613e97357f7942e1e228961f4e723",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.25,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.245,
             "resolved": false
         },
         {
@@ -1790,71 +1726,71 @@
             "id": "0x39037b0f4d68925a61cbc5b720f0825325d03a6d07cce28e12bd63187f1b3539",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.87,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.89,
             "resolved": false
         },
         {
             "id": "0x3e99612283f8182aefc17bbb51087f43c423608e2e0b2196a1512e145160a648",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9685,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.969,
             "resolved": false
         },
         {
             "id": "0x4437c8690e2edae1ab7acb0dcb40e536109ae6366e630d97f0bd764c9545ae57",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.8625,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.8255,
             "resolved": false
         },
         {
             "id": "0x4544aa7ad41414e793201c30eee6896699f2f6e5ce8db59dd8d7a2fee7109268",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.435,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.455,
             "resolved": false
         },
         {
             "id": "0x45514e0fcd922a740e67ab064a9042d3e964006712f9540947808ae82067ed23",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.705,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.72,
             "resolved": false
         },
         {
             "id": "0x4ee59d990cb82947d587bb6f9ea2fffdbf7c85ef4931c3440fbcb95bfe7c9dab",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.755,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.765,
             "resolved": false
         },
         {
             "id": "0x5198ce44b32ad6a632a413041278ac51643381fbc418db75314a17d9295ee325",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9675,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9895,
             "resolved": false
         },
         {
             "id": "0x5530aaf28138eb571e391eb31433c8d0f14942ab264e0e1c8ea51039e43832cf",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.34500000000000003,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.35000000000000003,
             "resolved": false
         },
         {
             "id": "0x5851bae96eeb26f343fa3c39602ce4d63f58629afdbc58bf409d565425f23443",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.55,
             "resolved": false
         },
@@ -1862,16 +1798,16 @@
             "id": "0x590733a087d9e14aa053182b38573b22ae45cd257bb11119de537ad5ce44f088",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.25,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.255,
             "resolved": false
         },
         {
             "id": "0x598c99fbef3a7d4fb2c3a5af62e67e4ef5f5f7447e966569aee6c917bff12a25",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.635,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.62,
             "resolved": false
         },
         {
@@ -1886,24 +1822,24 @@
             "id": "0x612126703db7fb7eaa44906b2c7de42300a6cb6e0615c1e360e96e328b6433e5",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.1,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.085,
             "resolved": false
         },
         {
             "id": "0x6522024c060166830e53a48b0db1cab9296601a8539ab005124db5e4bf50a303",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.875,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9675,
             "resolved": false
         },
         {
             "id": "0x66a41e567ff99f222ad315cea0e40bd6ab11989c75062abe1203084668658d23",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.026000000000000002,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.0235,
             "resolved": false
         },
         {
@@ -1918,8 +1854,8 @@
             "id": "0x67f3f8d0a0ecdfc008c99650284a4674388a8c3029b0eb7ca0abd65dde8d996f",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9425,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9395,
             "resolved": false
         },
         {
@@ -1934,71 +1870,71 @@
             "id": "0x6caca4e7e45f5e9088fc0ba0615121a2ed235a426860dfb9dc651437ac377c39",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.635,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.62,
             "resolved": false
         },
         {
             "id": "0x6d4ce755aea297d7a5ce8e17612d852363e3aec79e360c4676b49f3c57e3f230",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.7000000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.71,
             "resolved": false
         },
         {
             "id": "0x6d8c35997c3e96446e161ed179f4cca1203601b3675fb88379656a66b82498ce",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.0155,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.015,
             "resolved": false
         },
         {
             "id": "0x6db92cee58b72e61b3874cce633a0457ade010ef377a0eeeaf1fcf88ad0c3fd4",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.14,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.195,
             "resolved": false
         },
         {
             "id": "0x713ab27f31c1d8080ea3b9c21c8a021609f8fcb7aad13a87b8b069265e7fdfda",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.8180000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.8085,
             "resolved": false
         },
         {
             "id": "0x7279975d5426546b5a28aea4b7d0ac683ddfa23b4e958079faca70de26409429",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.18,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.134,
             "resolved": false
         },
         {
             "id": "0x76c1a69f2b0a7fcfa97b56ddbeaad1981a8cb3d8f24c1adce62ffa2d010ebbe0",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.28,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.26,
             "resolved": false
         },
         {
             "id": "0x7a70fc60ee280fa7b4312f5dd128d148d74ae5b3e4a2e8215ccf0030a08ebb04",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.125,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.165,
             "resolved": false
         },
         {
             "id": "0x7ac70d3487c79700fbfbd16f0cb4f0e39be104985b285ed938ed3af4e10dcefb",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.0005,
             "resolved": false
         },
@@ -2006,24 +1942,24 @@
             "id": "0x7b56773c80336f8a7b31dea50da0f26c8457a943c4ec9a90a54cadbf35649a22",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.039,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.0385,
             "resolved": false
         },
         {
             "id": "0x7d75aa02bcb7c8247a18a5c1fd271944dd22dcb76ca96371b256a6b97f50627d",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.46,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.47000000000000003,
             "resolved": false
         },
         {
             "id": "0x8126317d621047fb13d508a2651eecc8d38305904671822a62309c5aabd353aa",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.4555,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.4525,
             "resolved": false
         },
         {
@@ -2038,7 +1974,7 @@
             "id": "0x820729aadc283c1acec9aa0fab994d0aae15dd372c29df515134cd0548650d13",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.962,
             "resolved": false
         },
@@ -2046,15 +1982,15 @@
             "id": "0x885eda75b1174a0d10c01d5f7b3b0275dd9bbd7afa0994433985b26e6cd74ebd",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.3105,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.3275,
             "resolved": false
         },
         {
             "id": "0x88c449eb01e281238d1de7d112faaeb1cb8c74f8f9c3b24cb21b126e4b4f68ba",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.225,
             "resolved": false
         },
@@ -2062,80 +1998,80 @@
             "id": "0x8a4196617dcb703e49d9bb36d3847bf6a75fd364dbd19f8d408ac944bf1a03d8",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.765,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.795,
             "resolved": false
         },
         {
             "id": "0x8cb0cc447cbda5e851c335183c09d258d6604511abb7746f765f1d808e511c92",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.735,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.76,
             "resolved": false
         },
         {
             "id": "0x909e3566fa0384f39020837073fe6e9fac5fe340b49998f284737c04fddd3212",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.909,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9115000000000001,
             "resolved": false
         },
         {
             "id": "0x9194103ad3ae2c3d2a1d739358843fccea3c13ab39b1aab58a8bb87e486bbcdb",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.55,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.48,
             "resolved": false
         },
         {
             "id": "0x938e6a0a011f9534ffd2d86c65dde3aeb7c66ad06cee29ead70b832179c3b6de",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9480000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9515,
             "resolved": false
         },
         {
             "id": "0x9775cd557a3cdba4f0478070afa399c0805761dd9aa0e7ce4435a71fed32621c",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.035,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.0345,
             "resolved": false
         },
         {
             "id": "0x989e60030a12b3b8c3014ca744df34fce5bc014a803f5a0c717557e11a0a04b8",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.115,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.155,
             "resolved": false
         },
         {
             "id": "0x9da40c171ec15e8220688f8f3498f7aff07fbcb23bdfc0e3817bc39f091e64f0",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.605,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.595,
             "resolved": false
         },
         {
             "id": "0x9e69d69cdbccdef7f8543d02dc2a60d299121286463cc5bbaf57b0aff5693a68",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.34,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.79,
             "resolved": false
         },
         {
             "id": "0xa157fcc18df3d9ca0655349b496c2bda2f13756f69c94d1dbca487863b01486c",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.895,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.865,
             "resolved": false
         },
         {
@@ -2150,8 +2086,8 @@
             "id": "0xa222013f2baf3e9eb0613b7dc45d2fd8a3e63177c21bd282d9bb5133d6a44986",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.039,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.0375,
             "resolved": false
         },
         {
@@ -2166,23 +2102,23 @@
             "id": "0xaad0badfe7f20796f3359189cf9e2b33f81239b9d69768c22ed958c801e2677c",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.355,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.37,
             "resolved": false
         },
         {
             "id": "0xac70999ddbe55471d25c03cfa2b8bf4fe66f28cd29973d3faac7e7c12e5942cb",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.12,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.1085,
             "resolved": false
         },
         {
             "id": "0xacec7e5b90ccb1ac4c950e3aff18156d6ce1bb7b0c87c001a281279412dca784",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.115,
             "resolved": false
         },
@@ -2190,16 +2126,16 @@
             "id": "0xae515ea2b1b95486007cff8aa4afbd5f677e2760dd8752c1068d9cc55afb6d58",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.061500000000000006,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.048,
             "resolved": false
         },
         {
             "id": "0xb582528a5fe14a93da51bba48e709e59ca27737f203b5172c6bebf503ed7047b",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.335,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.355,
             "resolved": false
         },
         {
@@ -2214,15 +2150,15 @@
             "id": "0xb743353be80ee4d0ddcddb7551288f1745a7907f96a2f169a9932d5d70b9c0b6",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9695,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9805,
             "resolved": false
         },
         {
             "id": "0xba737dd3404eb2b79fdd95de5183d658a0cb4760cd411b62d00742540a5b3461",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.11,
             "resolved": false
         },
@@ -2230,24 +2166,24 @@
             "id": "0xbbf0bf35801866a361a3733ef21c787b94b9e7ccc9c4cde622b24f471b95c1ca",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.135,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.13,
             "resolved": false
         },
         {
             "id": "0xbc34e02e0b1102cb7aeeff54ac8698c57b7913cda913a56e8b71c4806cd4a0e6",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.655,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.625,
             "resolved": false
         },
         {
             "id": "0xbf7a9da08326512f76129d4accf9f7d852dbf1cb7dd2c512479ff40c872f5659",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.665,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.675,
             "resolved": false
         },
         {
@@ -2262,7 +2198,7 @@
             "id": "0xc0f076bc4d90a44df34a729277e9d1f294f0cb60d2c3b1b3800908b1e15b923b",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.735,
             "resolved": false
         },
@@ -2270,8 +2206,8 @@
             "id": "0xd0a4cdae9e1bf187195863b172242ec3c4a9f0332b43cad2fb008753e560593d",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.355,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.36,
             "resolved": false
         },
         {
@@ -2286,8 +2222,8 @@
             "id": "0xd6118440343968bb7dba587482a24e77308f438df8f76077363249248e240ef5",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.195,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.2,
             "resolved": false
         },
         {
@@ -2302,7 +2238,7 @@
             "id": "0xdb66349b5658e7ce54667294bb61ca2f98d68f8afde5c711284d7e9c5a5e5787",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.675,
             "resolved": false
         },
@@ -2310,39 +2246,39 @@
             "id": "0xdbe2f7486676bc943c454498a40595ddf042e89bc7a9c204084d87d59abc8730",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.47000000000000003,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.47500000000000003,
             "resolved": false
         },
         {
             "id": "0xe00cb03a0aefe8f4a06338da171a8df62edd2056622843931f4d5af4199afffe",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.20500000000000002,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.215,
             "resolved": false
         },
         {
             "id": "0xe1a717cca1d898e96a2216d4b3c4a4820779896928addfdab74dd861648a6382",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.635,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.545,
             "resolved": false
         },
         {
             "id": "0xe232f2c2d14a5ab8275e34cbc068944206df7fa382c279fca0745c8dd0522e0e",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.20700000000000002,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.227,
             "resolved": false
         },
         {
             "id": "0xe42b786064da52cb576c759c0d8585fca39f270cd558625b909d898b2d352396",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
+            "resolution_date": "2026-11-09",
             "resolved_to": 0.135,
             "resolved": false
         },
@@ -2350,16 +2286,16 @@
             "id": "0xe7c57c905638512f6181458503e042ca5096564ebaed3a3d9491bb259369a3c0",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.6565000000000001,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.644,
             "resolved": false
         },
         {
             "id": "0xea3b1d0099085f43a3098b3e1fbcbe62284ce1bda99384b3d46b82ff202ac016",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.24550000000000002,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.2565,
             "resolved": false
         },
         {
@@ -2374,8 +2310,8 @@
             "id": "0xf452f3f0b7f7e7754136de7174e0394eeea73aebe6ef27e8620b5657a2c8caa3",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.0205,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.02,
             "resolved": false
         },
         {
@@ -2406,8 +2342,8 @@
             "id": "0xfba1944e3a766b128d79d1c344e6b87bbbcd422a9eebe8a2111d4cf97262f238",
             "source": "polymarket",
             "direction": null,
-            "resolution_date": "2026-11-08",
-            "resolved_to": 0.9665,
+            "resolution_date": "2026-11-09",
+            "resolved_to": 0.9835,
             "resolved": false
         },
         {
